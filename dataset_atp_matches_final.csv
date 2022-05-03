@@ -1,0 +1,1081 @@
+id_torneio,nome_torneio,cidade_torneio,pais_torneio,continente_torneio,latitude_torneio,longitude_torneio,altitude_torneio,superficie_torneio,total_aces_torneio
+2000-717,Orlando,Orlando,EUA,América do Norte,28.538383,-81.378927,27.87165642,Clay,285
+2000-409,Atlanta,Atlanta,EUA,América do Norte,33.748995,-84.387982,308.6121521,Clay,210
+2000-408,London,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Hard,390
+2000-560,US Open,Nova Iorque,EUA,América do Norte,40.712775,-74.005973,4.262852192,Hard,2508
+2000-568,St. Petersburg,São Petersburgo,EUA,América do Norte,59.9502805,30.2894237,3.737375259399414,Hard,359
+2000-402,Memphis,Memphis,EUA,América do Norte,35.149534,-90.04898,72.96620178,Hard,573
+2000-404,Indian Wells Masters,Indian Wells,EUA,América do Norte,33.717631,-116.340755,277.1852417,Hard,745
+2000-407,Rotterdam,Rotterdam,Holanda,Europa,51.8820998,4.4848757,-0.519095242023468,Hard,438
+2000-336,Hong Kong,Hong Kong,China,Ásia,22.319304,114.169361,2.659766674,Hard,312
+2000-360,Casablanca,Casablanca,Marrocos,África,33.57311,-7.589843,50.53450012,Clay,129
+2000-580,Australian Open,Melbourne,Austrália,Oceania,-37.813628,144.963058,8.406817436,Hard,2444
+2000-807,Mexico City,Acapulco,México,América do Norte,23.634501,-102.552784,1999.349609,Clay,230
+2000-337,Vienna,Viena,Austria,Europa,48.208174,16.373819,208.9177704,Hard,308
+2000-440,s-Hertogenbosch,Rosmalen,Holanda,Europa,51.717149,5.36081,2.25545454,Grass,365
+2000-339,Adelaide,Adelaide,Austrália,Oceania,-34.928499,138.600746,56.32033539,Hard,288
+2000-433,Scottsdale,Scottsdale,EUA,América do Norte,33.49417,-111.926052,398.6959839,Hard,199
+2000-438,Moscow,Moscou,Rússia,Europa,55.755826,37.6173,147.0406799,Carpet,408
+2000-439,Umag,Umago,Croácia,Europa,45.437206,13.525721,3.575510502,Clay,180
+2000-403,Miami Masters,Miami,EUA,América do Norte,25.7082748,-80.1611257,-0.5187706351280212,Hard,1002
+2000-573,Mallorca,Maiorca,Espanha,Europa,39.695263,3.017571,76.75068665,Clay,256
+2000-475,San Marino,San Marino,Italia,Europa,43.94236,12.457777,221.1880951,Clay,260
+2000-773,Bucharest,Bucareste,Romenia,Europa,44.426767,26.102538,78.06578064,Clay,195
+2000-375,Lyon,Lyon,França,Europa,4.835659,45.764043,217.6715393,Carpet,413
+2000-500,Halle,Halle,Alemanha,Europa,51.49698,11.968803,81.90995026,Grass,516
+2000-505,Santiago,Santiago,Chile,América do Sul,-33.44889,-70.669265,522.3574829,Clay,308
+2000-73,Tashkent,Toshkent,Uzbequistão,Ásia,41.299496,69.240073,444.7503357,Hard,410
+2000-306,St. Poelten,Sankt Pölten,Austria,Europa,48.20353,15.63817,296.2186279,Clay,203
+2000-301,Auckland,Auckland,Nova Zelândia,Oceania,-36.850883,174.764488,11.14038277,Hard,302
+2000-540,Wimbledon,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,2607
+2000-423,Los Angeles,Los Angeles,EUA,América do Norte,34.052234,-118.243685,107.4480667,Hard,352
+2000-422,Cincinnati Masters,Cincinnati,EUA,América do Norte,39.103118,-84.51202,251.0748596,Hard,827
+2000-421,Canada Masters,Toronto,Canadá,América do Norte,43.653226,-79.383184,66.05884552,Hard,816
+2000-425,Barcelona,Barcelona,Espanha,Europa,41.387397,2.168568,42.32268524,Clay,459
+2000-424,San Jose,San Jose,EUA,América do Norte,37.338208,-121.886329,118.8428268,Hard,301
+2000-429,Stockholm,Estocolmo,Suécia,Europa,59.329323,18.068581,38.17290115,Hard,300
+2000-499,Delray Beach,Delray Beach,EUA,América do Norte,26.462489,-80.0776647,5.067657947540283,Hard,283
+2000-496,Marseille,Marselha,França,Europa,43.296482,5.36978,40.33418655,Hard,409
+2000-495,Dubai,Dubai,Emirados Árabes Unidos,Ásia,25.204849,55.270783,1.280532718,Hard,167
+2000-468,Estoril,Estoril,Portugal,Europa,38.713315,-9.393656,3.778222322,Clay,126
+2000-741,Nottingham,Nottingham,Reino Unido,Europa,52.954783,-1.158109,61.28526306,Grass,465
+2000-890,Shanghai,Xangai,China,Ásia,31.230416,121.473701,6.564735889,Hard,215
+2000-891,Chennai,Chennai,Índia,Ásia,13.08268,80.270718,0.761829436,Hard,321
+2000-308,Munich,Munique,Alemanha,Europa,48.135125,11.581981,523.5631714,Clay,298
+2000-314,Gstaad,Gstaad,Suíça,Europa,46.471759,7.286573,1402.696899,Clay,244
+2000-96,Sydney Olympics,Sydney,Austrália,Oceania,-33.86882,151.209296,4.215515137,Hard,0
+2000-416,Rome Masters,Roma,Italia,Europa,41.902784,12.496366,37.41212463,Clay,607
+2000-414,Hamburg Masters,Hamburgo,Alemanha,Europa,53.551085,9.993682,7.651072502,Clay,559
+2000-410,Monte Carlo Masters,Monte Carlo,Mônaco,Europa,43.740072,7.426644,110.5124283,Clay,485
+2000-418,Washington,Washington,EUA,América do Norte,47.751074,-120.740138,938.9876099,Hard,648
+2000-419,Indianapolis,Indianapolis,EUA,América do Norte,39.768403,-86.158068,229.4706421,Hard,489
+2000-319,Kitzbuhel,Kitzbuhel,Austria,Europa,47.449238,12.392541,906.1345215,Clay,368
+2000-311,Queen's Club,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,830
+2000-315,Newport,Newport,EUA,América do Norte,41.490102,-71.312828,13.53820419,Grass,366
+2000-317,Amsterdam,Amsterdam,Holanda,Europa,52.367573,4.904139,2.194350719,Clay,243
+2000-316,Bastad,Bastad,Suécia,Europa,56.427389,12.847722,88.20202637,Clay,184
+2000-481,Copenhagen,Copenhagen,Dinamarca,Europa,55.676097,12.568337,6.147089958,Hard,321
+2000-321,Stuttgart Outdoor,Stuttgart,Alemanha,Europa,48.775846,9.182932,327.8624878,Clay,287
+2000-451,Doha,Doha,Catar,Ásia,25.285447,51.53104,10.24268818,Hard,187
+2000-325,Palermo,Palermo,Italia,Europa,38.11569,13.361487,225.9081268,Clay,206
+2000-327,Toulouse,Toulouse,França,Europa,43.604652,1.444209,145.9657898,Hard,465
+2000-328,Basel,Basel,Suíça,Europa,47.559599,7.588576,276.7791138,Carpet,413
+2000-329,Tokyo,Tóquio,Japão,Ásia,35.6804,139.769017,25.86968803,Hard,548
+2000-357,Stuttgart Masters,Stuttgart,Alemanha,Europa,48.775846,9.182932,327.8624878,Hard,536
+2000-352,Paris Masters,Paris,França,Europa,48.856614,2.352222,54.06916046,Carpet,692
+2000-359,Bogota,Bogota,Colômbia,América do Sul,4.710989,-74.072092,2797.953857,Clay,277
+2000-520,Roland Garros,Paris,França,Europa,48.856614,2.352222,54.06916046,Clay,1558
+2000-620,Brighton,Brighton,Reino Unido,Europa,50.82253,-0.137163,8.187971115,Hard,330
+2000-441,Long Island,Long Island,EUA,América do Norte,40.789142,-73.134961,22.11933708,Hard,464
+2000-338,Sydney,Sydney,Austrália,Oceania,-33.86882,151.209296,4.215515137,Hard,325
+2000-615,Dusseldorf,Dusseldorf,Alemanha,Europa,51.227741,6.773456,30.44205284,Clay,104
+2000-615,Dusseldorf,Dusseldorf,Alemanha,Europa,51.227741,6.773456,30.44205284,Clay,104
+2000-605,Masters Cup 2000,Lisboa,Portugal,Europa,38.7685312,-9.0962184,5.486673355102539,Hard,155
+2001-580,Australian Open,Melbourne,Austrália,Oceania,-37.813628,144.963058,8.406817436,Hard,1929
+2001-741,Nottingham,Nottingham,Reino Unido,Europa,52.954783,-1.158109,61.28526306,Grass,431
+2001-338,Sydney,Sydney,Austrália,Oceania,-33.86882,151.209296,4.215515137,Hard,273
+2001-360,Casablanca,Casablanca,Marrocos,África,33.57311,-7.589843,50.53450012,Clay,209
+2001-404,Indian Wells Masters,Indian Wells,EUA,América do Norte,33.717631,-116.340755,277.1852417,Hard,713
+2001-407,Rotterdam,Rotterdam,Holanda,Europa,51.8820998,4.4848757,-0.519095242023468,Hard,410
+2001-402,Memphis,Memphis,EUA,América do Norte,35.149534,-90.04898,72.96620178,Hard,743
+2001-403,Miami Masters,Miami,EUA,América do Norte,25.7082748,-80.1611257,-0.5187706351280212,Hard,864
+2001-560,US Open,Nova Iorque,EUA,América do Norte,40.712775,-74.005973,4.262852192,Hard,2519
+2001-408,Milan,Milão,Italia,Europa,45.464204,9.189982,120.706337,Carpet,444
+2001-409,Atlanta,Atlanta,EUA,América do Norte,33.748995,-84.387982,308.6121521,Clay,227
+2001-319,Kitzbuhel,Kitzbuhel,Austria,Europa,47.449238,12.392541,906.1345215,Clay,319
+2001-311,Queen's Club,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,670
+2001-314,Gstaad,Gstaad,Suíça,Europa,46.471759,7.286573,1402.696899,Clay,359
+2001-315,Newport,Newport,EUA,América do Norte,41.490102,-71.312828,13.53820419,Grass,328
+2001-316,Bastad,Bastad,Suécia,Europa,56.427389,12.847722,88.20202637,Clay,168
+2001-317,Amsterdam,Amsterdam,Holanda,Europa,52.367573,4.904139,2.194350719,Clay,261
+2001-520,Roland Garros,Paris,França,Europa,48.856614,2.352222,54.06916046,Clay,1690
+2001-357,Stuttgart Masters,Stuttgart,Alemanha,Europa,48.775846,9.182932,327.8624878,Hard,808
+2001-352,Paris Masters,Paris,França,Europa,48.856614,2.352222,54.06916046,Carpet,709
+2001-451,Doha,Doha,Catar,Ásia,25.285447,51.53104,10.24268818,Hard,264
+2001-359,Bogota,Bogota,Colômbia,América do Sul,4.710989,-74.072092,2797.953857,Clay,289
+2001-891,Chennai,Chennai,Índia,Ásia,13.08268,80.270718,0.761829436,Hard,317
+2001-890,Shanghai,Xangai,China,Ásia,31.230416,121.473701,6.564735889,Hard,202
+2001-773,Bucharest,Bucareste,Romenia,Europa,44.426767,26.102538,78.06578064,Clay,208
+2001-481,Copenhagen,Copenhagen,Dinamarca,Europa,55.676097,12.568337,6.147089958,Hard,230
+2001-416,Rome Masters,Roma,Italia,Europa,41.902784,12.496366,37.41212463,Clay,406
+2001-414,Hamburg Masters,Hamburgo,Alemanha,Europa,53.551085,9.993682,7.651072502,Clay,374
+2001-410,Monte Carlo Masters,Monte Carlo,Mônaco,Europa,43.740072,7.426644,110.5124283,Clay,345
+2001-419,Indianapolis,Indianapolis,EUA,América do Norte,39.768403,-86.158068,229.4706421,Hard,749
+2001-418,Washington,Washington,EUA,América do Norte,47.751074,-120.740138,938.9876099,Hard,676
+2001-308,Munich,Munique,Alemanha,Europa,48.135125,11.581981,523.5631714,Clay,283
+2001-301,Auckland,Auckland,Nova Zelândia,Oceania,-36.850883,174.764488,11.14038277,Hard,314
+2001-306,St. Poelten,Sankt Pölten,Austria,Europa,48.20353,15.63817,296.2186279,Clay,226
+2001-568,St. Petersburg,São Petersburgo,Rússia,América do Norte,59.9502805,30.2894237,3.737375259399414,Hard,325
+2001-468,Estoril,Estoril,Portugal,Europa,38.713315,-9.393656,3.778222322,Clay,167
+2001-499,Delray Beach,Delray Beach,EUA,América do Norte,26.462489,-80.0776647,5.067657947540283,Hard,373
+2001-496,Marseille,Marselha,França,Europa,43.296482,5.36978,40.33418655,Hard,473
+2001-495,Dubai,Dubai,Emirados Árabes Unidos,Ásia,25.204849,55.270783,1.280532718,Hard,246
+2001-429,Stockholm,Estocolmo,Suécia,Europa,59.329323,18.068581,38.17290115,Hard,405
+2001-422,Cincinnati Masters,Cincinnati,EUA,América do Norte,39.103118,-84.51202,251.0748596,Hard,780
+2001-423,Los Angeles,Los Angeles,EUA,América do Norte,34.052234,-118.243685,107.4480667,Hard,383
+2001-421,Canada Masters,Toronto,Canadá,América do Norte,43.653226,-79.383184,66.05884552,Hard,719
+2001-424,San Jose,San Jose,EUA,América do Norte,37.338208,-121.886329,118.8428268,Hard,393
+2001-425,Barcelona,Barcelona,Espanha,Europa,41.387397,2.168568,42.32268524,Clay,398
+2001-807,Acapulco,Acapulco,México,América do Norte,23.634501,-102.552784,1999.349609,Clay,379
+2001-339,Adelaide,Adelaide,Austrália,Oceania,-34.928499,138.600746,56.32033539,Hard,274
+2001-336,Hong Kong,Hong Kong,China,Ásia,22.319304,114.169361,2.659766674,Hard,363
+2001-337,Vienna,Viena,Austria,Europa,48.208174,16.373819,208.9177704,Hard,285
+2001-329,Tokyo,Tóquio,Japão,Ásia,35.6804,139.769017,25.86968803,Hard,514
+2001-328,Basel,Basel,Suíça,Europa,47.559599,7.588576,276.7791138,Carpet,435
+2001-505,Vina del Mar,Vina del Mar,Chile,América do Sul,-33.015348,-71.550028,172.776062,Clay,194
+2001-506,Buenos Aires,Buenos Aires,Argentina,América do Sul,-34.603684,-58.381559,7.12301302,Clay,226
+2001-500,Halle,Halle,Alemanha,Europa,51.49698,11.968803,81.90995026,Grass,392
+2001-375,Lyon,Lyon,França,Europa,4.835659,45.764043,217.6715393,Carpet,365
+2001-475,Sopot,Sopot,Polônia,Europa,54.441581,18.560096,65.3839035,Clay,148
+2001-573,Mallorca,Maiorca,Espanha,Europa,39.695263,3.017571,76.75068665,Clay,185
+2001-540,Wimbledon,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,2623
+2001-717,Houston,Houston,EUA,América do Norte,29.760427,-95.369803,14.9013443,Clay,296
+2001-439,Umag,Umago,Croácia,Europa,45.437206,13.525721,3.575510502,Clay,238
+2001-438,Moscow,Moscou,Rússia,Europa,55.755826,37.6173,147.0406799,Carpet,363
+2001-433,Scottsdale,Scottsdale,EUA,América do Norte,33.49417,-111.926052,398.6959839,Hard,237
+2001-533,Costa Do Sauipe,Costa Do Sauipe,Brasil,América do Sul,-12.438033,-37.919165,4.36184597,Hard,274
+2001-321,Stuttgart,Stuttgart,Alemanha,Europa,48.775846,9.182932,327.8624878,Clay,446
+2001-325,Palermo,Palermo,Italia,Europa,38.11569,13.361487,225.9081268,Clay,228
+2001-440,s-Hertogenbosch,Rosmalen,Holanda,Europa,51.717149,5.36081,2.25545454,Grass,237
+2001-441,Long Island,Long Island,EUA,América do Norte,40.789142,-73.134961,22.11933708,Hard,445
+2001-73,Tashkent,Toshkent,Uzbequistão,Ásia,41.299496,69.240073,444.7503357,Hard,376
+2001-615,Dusseldorf,Dusseldorf,Alemanha,Europa,51.227741,6.773456,30.44205284,Clay,200
+2001-605,Masters Cup 2001,Sydney,Austrália,Oceania,-33.8443,151.0599113,5.342514991760254,Hard,213
+2002-499,Delray Beach,Delray Beach,EUA,América do Norte,26.462489,-80.0776647,5.067657947540283,Hard,385
+2002-495,Dubai,Dubai,Emirados Árabes Unidos,Ásia,25.204849,55.270783,1.280532718,Hard,303
+2002-496,Marseille,Marselha,França,Europa,43.296482,5.36978,40.33418655,Hard,625
+2002-419,Indianapolis,Indianapolis,EUA,América do Norte,39.768403,-86.158068,229.4706421,Hard,584
+2002-73,Tashkent,Toshkent,Uzbequistão,Ásia,41.299496,69.240073,444.7503357,Hard,463
+2002-407,Rotterdam,Rotterdam,Holanda,Europa,51.8820998,4.4848757,-0.519095242023468,Hard,430
+2002-404,Indian Wells Masters,Indian Wells,EUA,América do Norte,33.717631,-116.340755,277.1852417,Hard,584
+2002-403,Miami Masters,Miami,EUA,América do Norte,25.7082748,-80.1611257,-0.5187706351280212,Hard,910
+2002-402,Memphis,Memphis,EUA,América do Norte,35.149534,-90.04898,72.96620178,Hard,490
+2002-408,Milan,Milão,Italia,Europa,45.464204,9.189982,120.706337,Carpet,509
+2002-337,Vienna,Viena,Austria,Europa,48.208174,16.373819,208.9177704,Hard,298
+2002-336,Hong Kong,Hong Kong,China,Ásia,22.319304,114.169361,2.659766674,Hard,375
+2002-339,Adelaide,Adelaide,Austrália,Oceania,-34.928499,138.600746,56.32033539,Hard,301
+2002-1536,Madrid Masters,Madri,Espanha,Europa,40.416775,-3.70379,667.6986694,Hard,555
+2002-533,Costa Do Sauipe,Costa Do Sauipe,Brasil,América do Sul,-12.438033,-37.919165,4.36184597,Hard,290
+2002-573,Mallorca,Maiorca,Espanha,Europa,39.695263,3.017571,76.75068665,Clay,209
+2002-475,Sopot,Sopot,Polônia,Europa,54.441581,18.560096,65.3839035,Clay,162
+2002-308,Munich,Munique,Alemanha,Europa,48.135125,11.581981,523.5631714,Clay,231
+2002-301,Auckland,Auckland,Nova Zelândia,Oceania,-36.850883,174.764488,11.14038277,Hard,302
+2002-306,St. Poelten,Sankt Pölten,Austria,Europa,48.20353,15.63817,296.2186279,Clay,238
+2002-375,Lyon,Lyon,França,Europa,4.835659,45.764043,217.6715393,Carpet,609
+2002-481,Copenhagen,Copenhagen,Dinamarca,Europa,55.676097,12.568337,6.147089958,Hard,272
+2002-717,Houston,Houston,EUA,América do Norte,29.760427,-95.369803,14.9013443,Clay,359
+2002-438,Moscow,Moscou,Rússia,Europa,55.755826,37.6173,147.0406799,Carpet,354
+2002-439,Umag,Umago,Croácia,Europa,45.437206,13.525721,3.575510502,Clay,181
+2002-433,Scottsdale,Scottsdale,EUA,América do Norte,33.49417,-111.926052,398.6959839,Hard,319
+2002-506,Buenos Aires,Buenos Aires,Argentina,América do Sul,-34.603684,-58.381559,7.12301302,Clay,244
+2002-505,Vina del Mar,Vina del Mar,Chile,América do Sul,-33.015348,-71.550028,172.776062,Clay,206
+2002-500,Halle,Halle,Alemanha,Europa,51.49698,11.968803,81.90995026,Grass,361
+2002-338,Sydney,Sydney,Austrália,Oceania,-33.86882,151.209296,4.215515137,Hard,276
+2002-540,Wimbledon,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,2463
+2002-468,Estoril,Estoril,Portugal,Europa,38.713315,-9.393656,3.778222322,Clay,174
+2002-319,Kitzbuhel,Kitzbuhel,Austria,Europa,47.449238,12.392541,906.1345215,Clay,303
+2002-311,Queen's Club,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,651
+2002-317,Amersfoort,Amersfoort,Holanda,Europa,52.156111,5.387827,6.185717583,Clay,189
+2002-316,Bastad,Bastad,Suécia,Europa,56.427389,12.847722,88.20202637,Clay,221
+2002-315,Newport,Newport,EUA,América do Norte,41.490102,-71.312828,13.53820419,Grass,338
+2002-314,Gstaad,Gstaad,Suíça,Europa,46.471759,7.286573,1402.696899,Clay,363
+2002-429,Stockholm,Estocolmo,Suécia,Europa,59.329323,18.068581,38.17290115,Hard,341
+2002-580,Australian Open,Melbourne,Austrália,Oceania,-37.813628,144.963058,8.406817436,Hard,2046
+2002-425,Barcelona,Barcelona,Espanha,Europa,41.387397,2.168568,42.32268524,Clay,372
+2002-424,San Jose,San Jose,EUA,América do Norte,37.338208,-121.886329,118.8428268,Hard,450
+2002-421,Canada Masters,Toronto,Canadá,América do Norte,43.653226,-79.383184,66.05884552,Hard,931
+2002-423,Los Angeles,Los Angeles,EUA,América do Norte,34.052234,-118.243685,107.4480667,Hard,348
+2002-422,Cincinnati Masters,Cincinnati,EUA,América do Norte,39.103118,-84.51202,251.0748596,Hard,828
+2002-352,Paris Masters,Paris,França,Europa,48.856614,2.352222,54.06916046,Carpet,699
+2002-414,Hamburg Masters,Hamburgo,Alemanha,Europa,53.551085,9.993682,7.651072502,Clay,436
+2002-451,Doha,Doha,Catar,Ásia,25.285447,51.53104,10.24268818,Hard,288
+2002-773,Bucharest,Bucareste,Romenia,Europa,44.426767,26.102538,78.06578064,Clay,136
+2002-416,Rome Masters,Roma,Italia,Europa,41.902784,12.496366,37.41212463,Clay,429
+2002-410,Monte Carlo Masters,Monte Carlo,Mônaco,Europa,43.740072,7.426644,110.5124283,Clay,364
+2002-328,Basel,Basel,Suíça,Europa,47.559599,7.588576,276.7791138,Carpet,374
+2002-329,Tokyo,Tóquio,Japão,Ásia,35.6804,139.769017,25.86968803,Hard,769
+2002-325,Palermo,Palermo,Italia,Europa,38.11569,13.361487,225.9081268,Clay,214
+2002-321,Stuttgart,Stuttgart,Alemanha,Europa,48.775846,9.182932,327.8624878,Clay,193
+2002-520,Roland Garros,Paris,França,Europa,48.856614,2.352222,54.06916046,Clay,1407
+2002-741,Nottingham,Nottingham,Reino Unido,Europa,52.954783,-1.158109,61.28526306,Grass,252
+2002-891,Chennai,Chennai,Índia,Ásia,13.08268,80.270718,0.761829436,Hard,318
+2002-560,US Open,Nova Iorque,EUA,América do Norte,40.712775,-74.005973,4.262852192,Hard,2207
+2002-441,Long Island,Long Island,EUA,América do Norte,40.789142,-73.134961,22.11933708,Hard,469
+2002-440,s-Hertogenbosch,Rosmalen,Holanda,Europa,51.717149,5.36081,2.25545454,Grass,232
+2002-568,St. Petersburg,São Petersburgo,Rússia,América do Norte,59.9502805,30.2894237,3.737375259399414,Hard,326
+2002-807,Acapulco,Acapulco,México,América do Norte,23.634501,-102.552784,1999.349609,Clay,344
+2002-360,Casablanca,Casablanca,Marrocos,África,33.57311,-7.589843,50.53450012,Clay,233
+2002-418,Washington,Washington,EUA,América do Norte,47.751074,-120.740138,938.9876099,Hard,646
+2002-782,Wrexham CH,Wrexham,Reino Unido,Europa,53.04304,-2.992494,66.93309021,Hard,0
+2002-605,Masters Cup 2002,Shanghai,China,Ásia,31.208904,121.5627233,2.595300436019897,Hard,184
+2004-360,Casablanca,Casablanca,Marrocos,África,33.57311,-7.589843,50.53450012,Clay,160
+2004-505,Vina del Mar,Vina del Mar,Chile,América do Sul,-33.015348,-71.550028,172.776062,Clay,171
+2004-506,Buenos Aires,Buenos Aires,Argentina,América do Sul,-34.603684,-58.381559,7.12301302,Clay,165
+2004-500,Halle,Halle,Alemanha,Europa,51.49698,11.968803,81.90995026,Grass,381
+2004-468,Estoril,Estoril,Portugal,Europa,38.713315,-9.393656,3.778222322,Clay,174
+2004-325,Palermo,Palermo,Italia,Europa,38.11569,13.361487,225.9081268,Clay,131
+2004-328,Basel,Basel,Suíça,Europa,47.559599,7.588576,276.7791138,Carpet,357
+2004-329,Tokyo,Tóquio,Japão,Ásia,35.6804,139.769017,25.86968803,Hard,579
+2004-429,Stockholm,Estocolmo,Suécia,Europa,59.329323,18.068581,38.17290115,Hard,492
+2004-425,Barcelona,Barcelona,Espanha,Europa,41.387397,2.168568,42.32268524,Clay,468
+2004-424,San Jose,San Jose,EUA,América do Norte,37.338208,-121.886329,118.8428268,Hard,529
+2004-423,Los Angeles,Los Angeles,EUA,América do Norte,34.052234,-118.243685,107.4480667,Hard,424
+2004-422,Cincinnati Masters,Cincinnati,EUA,América do Norte,39.103118,-84.51202,251.0748596,Hard,1092
+2004-421,Canada Masters,Toronto,Canadá,América do Norte,43.653226,-79.383184,66.05884552,Hard,859
+2004-499,Delray Beach,Delray Beach,EUA,América do Norte,26.462489,-80.0776647,5.067657947540283,Hard,402
+2004-496,Marseille,Marselha,França,Europa,43.296482,5.36978,40.33418655,Hard,558
+2004-495,Dubai,Dubai,Emirados Árabes Unidos,Ásia,25.204849,55.270783,1.280532718,Hard,260
+2004-773,Bucharest,Bucareste,Romenia,Europa,44.426767,26.102538,78.06578064,Clay,154
+2004-375,Lyon,Lyon,França,Europa,4.835659,45.764043,217.6715393,Carpet,424
+2004-451,Doha,Doha,Catar,Ásia,25.285447,51.53104,10.24268818,Hard,319
+2004-1720,Bangkok,Bangkok,Tailânia,Ásia,13.756331,100.501765175.2830352783203,3.559772491,Hard,434
+2004-337,Vienna,Viena,Austria,Europa,48.208174,16.373819,208.9177704,Hard,300
+2004-339,Adelaide,Adelaide,Austrália,Oceania,-34.928499,138.600746,56.32033539,Hard,283
+2004-338,Sydney,Sydney,Austrália,Oceania,-33.86882,151.209296,4.215515137,Hard,376
+2004-410,Monte Carlo Masters,Monte Carlo,Mônaco,Europa,43.740072,7.426644,110.5124283,Clay,310
+2004-416,Rome Masters,Roma,Italia,Europa,41.902784,12.496366,37.41212463,Clay,471
+2004-414,Hamburg Masters,Hamburgo,Alemanha,Europa,53.551085,9.993682,7.651072502,Clay,389
+2004-418,Washington,Washington,EUA,América do Norte,47.751074,-120.740138,938.9876099,Hard,480
+2004-419,Indianapolis,Indianapolis,EUA,América do Norte,39.768403,-86.158068,229.4706421,Hard,734
+2004-560,US Open,Nova Iorque,EUA,América do Norte,40.712775,-74.005973,4.262852192,Hard,2388
+2004-341,Metz,Metz,França,Europa,49.119309,6.175716,175.2830353,Hard,467
+2004-568,St. Petersburg,São Petersburgo,Rússia,América do Norte,59.9502805,30.2894237,3.737375259399414,Carpet,424
+2004-96,Athens Olympics,Atenas,Grécia,Europa,38.0393589,23.7888675,172.8701629638672,Hard,0
+2004-807,Acapulco,Acapulco,México,América do Norte,23.634501,-102.552784,1999.349609,Clay,285
+2004-741,Nottingham,Nottingham,Reino Unido,Europa,52.954783,-1.158109,61.28526306,Grass,386
+2004-747,Beijing,Pequim,China,Ásia,39.9042,116.407396,46.6712265,Hard,293
+2004-1536,Madrid Masters,Madri,Espanha,Europa,40.416775,-3.70379,667.6986694,Hard,699
+2004-520,Roland Garros,Paris,França,Europa,48.856614,2.352222,54.06916046,Clay,1343
+2004-441,Long Island,Long Island,EUA,América do Norte,40.789142,-73.134961,22.11933708,Hard,338
+2004-440,s-Hertogenbosch,Rosmalen,Holanda,Europa,51.717149,5.36081,2.25545454,Grass,313
+2004-308,Munich,Munique,Alemanha,Europa,48.135125,11.581981,523.5631714,Clay,323
+2004-717,Houston,Houston,EUA,América do Norte,29.760427,-95.369803,14.9013443,Clay,246
+2004-301,Auckland,Auckland,Nova Zelândia,Oceania,-36.850883,174.764488,11.14038277,Hard,264
+2004-306,St. Poelten,Sankt Pölten,Austria,Europa,48.20353,15.63817,296.2186279,Clay,201
+2004-580,Australian Open,Melbourne,Austrália,Oceania,-37.813628,144.963058,8.406817436,Hard,2085
+2004-404,Indian Wells Masters,Indian Wells,EUA,América do Norte,33.717631,-116.340755,277.1852417,Hard,1050
+2004-407,Rotterdam,Rotterdam,Holanda,Europa,51.8820998,4.4848757,-0.519095242023468,Hard,391
+2004-403,Miami Masters,Miami,EUA,América do Norte,25.7082748,-80.1611257,-0.5187706351280212,Hard,904
+2004-402,Memphis,Memphis,EUA,América do Norte,35.149534,-90.04898,72.96620178,Hard,566
+2004-408,Milan,Milão,Italia,Europa,45.464204,9.189982,120.706337,Carpet,573
+2004-573,Valencia,Valencia,Espanha,Europa,39.469908,-0.376288,27.05393028,Clay,167
+2004-475,Sopot,Sopot,Polônia,Europa,54.441581,18.560096,65.3839035,Clay,182
+2004-321,Stuttgart,Stuttgart,Alemanha,Europa,48.775846,9.182932,327.8624878,Clay,302
+2004-352,Paris Masters,Paris,França,Europa,48.856614,2.352222,54.06916046,Carpet,581
+2004-438,Moscow,Moscou,Rússia,Europa,55.755826,37.6173,147.0406799,Carpet,358
+2004-439,Umag,Umago,Croácia,Europa,45.437206,13.525721,3.575510502,Clay,152
+2004-533,Costa Do Sauipe,Costa Do Sauipe,Brasil,América do Sul,-12.438033,-37.919165,4.36184597,Clay,228
+2004-433,Scottsdale,Scottsdale,EUA,América do Norte,33.49417,-111.926052,398.6959839,Hard,360
+2004-540,Wimbledon,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,2594
+2004-890,Shanghai,Xangai,China,Ásia,31.230416,121.473701,6.564735889,Hard,386
+2004-891,Chennai,Chennai,Índia,Ásia,13.08268,80.270718,0.761829436,Hard,278
+2004-319,Kitzbuhel,Kitzbuhel,Austria,Europa,47.449238,12.392541,906.1345215,Clay,329
+2004-315,Newport,Newport,EUA,América do Norte,41.490102,-71.312828,13.53820419,Grass,384
+2004-314,Gstaad,Gstaad,Suíça,Europa,46.471759,7.286573,1402.696899,Clay,321
+2004-317,Amersfoort,Amersfoort,Holanda,Europa,52.156111,5.387827,6.185717583,Clay,306
+2004-316,Bastad,Bastad,Suécia,Europa,56.427389,12.847722,88.20202637,Clay,170
+2004-311,Queen's Club,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,783
+2004-615,Dusseldorf,Dusseldorf,Alemanha,Europa,51.227741,6.773456,30.44205284,Clay,169
+2004-605,Masters Cup 2004,Houston,EUA,América do Norte,29.750229,-95.5772114,23.17930793762207,Hard,177
+2005-891,Chennai,Chennai,Índia,Ásia,13.08268,80.270718,0.761829436,Hard,334
+2005-890,Ho Chi Minh City,Ho Chi Minh,Vietnã,Ásia,10.823099,106.629664,3.751946688,Carpet,457
+2005-416,Rome Masters,Roma,Italia,Europa,41.902784,12.496366,37.41212463,Clay,378
+2005-414,Hamburg Masters,Hamburgo,Alemanha,Europa,53.551085,9.993682,7.651072502,Clay,324
+2005-419,Indianapolis,Indianapolis,EUA,América do Norte,39.768403,-86.158068,229.4706421,Hard,657
+2005-807,Acapulco,Acapulco,México,América do Norte,23.634501,-102.552784,1999.349609,Clay,281
+2005-410,Monte Carlo Masters,Monte Carlo,Mônaco,Europa,43.740072,7.426644,110.5124283,Clay,306
+2005-418,Washington,Washington,EUA,América do Norte,47.751074,-120.740138,938.9876099,Hard,827
+2005-360,Casablanca,Casablanca,Marrocos,África,33.57311,-7.589843,50.53450012,Clay,177
+2005-451,Doha,Doha,Catar,Ásia,25.285447,51.53104,10.24268818,Hard,212
+2005-1536,Madrid Masters,Madri,Espanha,Europa,40.416775,-3.70379,667.6986694,Hard,687
+2005-520,Roland Garros,Paris,França,Europa,48.856614,2.352222,54.06916046,Clay,1248
+2005-580,Australian Open,Melbourne,Austrália,Oceania,-37.813628,144.963058,8.406817436,Hard,2045
+2005-325,Palermo,Palermo,Italia,Europa,38.11569,13.361487,225.9081268,Clay,207
+2005-321,Stuttgart,Stuttgart,Alemanha,Europa,48.775846,9.182932,327.8624878,Clay,330
+2005-329,Tokyo,Tóquio,Japão,Ásia,35.6804,139.769017,25.86968803,Hard,643
+2005-328,Basel,Basel,Suíça,Europa,47.559599,7.588576,276.7791138,Carpet,446
+2005-352,Paris Masters,Paris,França,Europa,48.856614,2.352222,54.06916046,Carpet,762
+2005-424,San Jose,San Jose,EUA,América do Norte,37.338208,-121.886329,118.8428268,Hard,395
+2005-422,Cincinnati Masters,Cincinnati,EUA,América do Norte,39.103118,-84.51202,251.0748596,Hard,805
+2005-423,Los Angeles,Los Angeles,EUA,América do Norte,34.052234,-118.243685,107.4480667,Hard,346
+2005-421,Canada Masters,Toronto,Canadá,América do Norte,43.653226,-79.383184,66.05884552,Hard,710
+2005-429,Stockholm,Estocolmo,Suécia,Europa,59.329323,18.068581,38.17290115,Hard,352
+2005-499,Delray Beach,Delray Beach,EUA,América do Norte,26.462489,-80.0776647,5.067657947540283,Hard,318
+2005-773,Bucharest,Bucareste,Romenia,Europa,44.426767,26.102538,78.06578064,Clay,189
+2005-319,Kitzbuhel,Kitzbuhel,Austria,Europa,47.449238,12.392541,906.1345215,Clay,375
+2005-314,Gstaad,Gstaad,Suíça,Europa,46.471759,7.286573,1402.696899,Clay,281
+2005-315,Newport,Newport,EUA,América do Norte,41.490102,-71.312828,13.53820419,Grass,345
+2005-316,Bastad,Bastad,Suécia,Europa,56.427389,12.847722,88.20202637,Clay,172
+2005-317,Amersfoort,Amersfoort,Holanda,Europa,52.156111,5.387827,6.185717583,Clay,296
+2005-311,Queen's Club,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,753
+2005-500,Halle,Halle,Alemanha,Europa,51.49698,11.968803,81.90995026,Grass,417
+2005-468,Estoril,Estoril,Portugal,Europa,38.713315,-9.393656,3.778222322,Clay,149
+2005-505,Vina del Mar,Vina del Mar,Chile,América do Sul,-33.015348,-71.550028,172.776062,Clay,235
+2005-506,Buenos Aires,Buenos Aires,Argentina,América do Sul,-34.603684,-58.381559,7.12301302,Clay,188
+2005-747,Beijing,Pequim,China,Ásia,39.9042,116.407396,46.6712265,Hard,277
+2005-741,Nottingham,Nottingham,Reino Unido,Europa,52.954783,-1.158109,61.28526306,Grass,372
+2005-496,Marseille,Marselha,França,Europa,43.296482,5.36978,40.33418655,Hard,464
+2005-495,Dubai,Dubai,Emirados Árabes Unidos,Ásia,25.204849,55.270783,1.280532718,Hard,290
+2005-540,Wimbledon,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,2633
+2005-439,Umag,Umago,Croácia,Europa,45.437206,13.525721,3.575510502,Clay,125
+2005-438,Moscow,Moscou,Rússia,Europa,55.755826,37.6173,147.0406799,Carpet,246
+2005-341,Metz,Metz,França,Europa,49.119309,6.175716,175.2830353,Hard,495
+2005-433,Scottsdale,Scottsdale,EUA,América do Norte,33.49417,-111.926052,398.6959839,Hard,391
+2005-533,Costa Do Sauipe,Costa Do Sauipe,Brasil,América do Sul,-12.438033,-37.919165,4.36184597,Clay,198
+2005-308,Munich,Munique,Alemanha,Europa,48.135125,11.581981,523.5631714,Clay,269
+2005-306,St. Poelten,Sankt Pölten,Austria,Europa,48.20353,15.63817,296.2186279,Clay,217
+2005-301,Auckland,Auckland,Nova Zelândia,Oceania,-36.850883,174.764488,11.14038277,Hard,203
+2005-475,Sopot,Sopot,Polônia,Europa,54.441581,18.560096,65.3839035,Clay,227
+2005-573,Valencia,Valencia,Espanha,Europa,39.469908,-0.376288,27.05393028,Clay,137
+2005-402,Memphis,Memphis,EUA,América do Norte,35.149534,-90.04898,72.96620178,Hard,544
+2005-403,Miami Masters,Miami,EUA,América do Norte,25.7082748,-80.1611257,-0.5187706351280212,Hard,937
+2005-404,Indian Wells Masters,Indian Wells,EUA,América do Norte,33.717631,-116.340755,277.1852417,Hard,943
+2005-407,Rotterdam,Rotterdam,Holanda,Europa,51.8820998,4.4848757,-0.519095242023468,Hard,486
+2005-408,Milan,Milão,Italia,Europa,45.464204,9.189982,120.706337,Carpet,639
+2005-717,Houston,Houston,EUA,América do Norte,29.760427,-95.369803,14.9013443,Clay,315
+2005-425,Barcelona,Barcelona,Espanha,Europa,41.387397,2.168568,42.32268524,Clay,372
+2005-1720,Bangkok,Bangkok,Tailânia,Ásia,13.756331,100.501765175.2830352783203,3.559772491,Hard,418
+2005-375,Lyon,Lyon,França,Europa,4.835659,45.764043,217.6715393,Carpet,472
+2005-3348,New Haven,New Haven,EUA,América do Norte,41.308274,-72.927883,12.30588627,Hard,552
+2005-440,s-Hertogenbosch,Rosmalen,Holanda,Europa,51.717149,5.36081,2.25545454,Grass,419
+2005-337,Vienna,Viena,Austria,Europa,48.208174,16.373819,208.9177704,Hard,309
+2005-338,Sydney,Sydney,Austrália,Oceania,-33.86882,151.209296,4.215515137,Hard,358
+2005-339,Adelaide,Adelaide,Austrália,Oceania,-34.928499,138.600746,56.32033539,Hard,332
+2005-568,St. Petersburg,São Petersburgo,Rússia,América do Norte,59.9502805,30.2894237,3.737375259399414,Carpet,347
+2005-560,US Open,Nova Iorque,EUA,América do Norte,40.712775,-74.005973,4.262852192,Hard,2288
+2005-615,Dusseldorf,Dusseldorf,Alemanha,Europa,51.227741,6.773456,30.44205284,Clay,101
+2005-615,Dusseldorf,Dusseldorf,Alemanha,Europa,51.227741,6.773456,30.44205284,Clay,101
+2005-605,Masters Cup 2005,Shanghai,China,Ásia,31.039904,121.3568363,4.040614604949951,Carpet,114
+2006-520,Roland Garros,Paris,França,Europa,48.856614,2.352222,54.06916046,Clay,1297
+2006-328,Basel,Basel,Suíça,Europa,47.559599,7.588576,276.7791138,Carpet,410
+2006-451,Doha,Doha,Catar,Ásia,25.285447,51.53104,10.24268818,Hard,258
+2006-352,Paris Masters,Paris,França,Europa,48.856614,2.352222,54.06916046,Carpet,616
+2006-773,Bucharest,Bucareste,Romenia,Europa,44.426767,26.102538,78.06578064,Clay,178
+2006-573,Valencia,Valencia,Espanha,Europa,39.469908,-0.376288,27.05393028,Clay,153
+2006-468,Estoril,Estoril,Portugal,Europa,38.713315,-9.393656,3.778222322,Clay,203
+2006-2276,Zagreb,Zagrebe,Croácia,Europa,45.815011,15.981919,213.4449158,Carpet,454
+2006-319,Kitzbuhel,Kitzbuhel,Austria,Europa,47.449238,12.392541,906.1345215,Clay,420
+2006-317,Amersfoort,Amersfoort,Holanda,Europa,52.156111,5.387827,6.185717583,Clay,237
+2006-315,Newport,Newport,EUA,América do Norte,41.490102,-71.312828,13.53820419,Grass,364
+2006-314,Gstaad,Gstaad,Suíça,Europa,46.471759,7.286573,1402.696899,Clay,370
+2006-433,Las Vegas,Las Vegas,EUA,América do Norte,36.169941,-115.13983,621.1883545,Hard,224
+2006-403,Miami Masters,Miami,EUA,América do Norte,25.7082748,-80.1611257,-0.5187706351280212,Hard,973
+2006-402,Memphis,Memphis,EUA,América do Norte,35.149534,-90.04898,72.96620178,Hard,572
+2006-404,Indian Wells Masters,Indian Wells,EUA,América do Norte,33.717631,-116.340755,277.1852417,Hard,783
+2006-741,Nottingham,Nottingham,Reino Unido,Europa,52.954783,-1.158109,61.28526306,Grass,443
+2006-316,Bastad,Bastad,Suécia,Europa,56.427389,12.847722,88.20202637,Clay,182
+2006-440,s-Hertogenbosch,Rosmalen,Holanda,Europa,51.717149,5.36081,2.25545454,Grass,348
+2006-360,Casablanca,Casablanca,Marrocos,África,33.57311,-7.589843,50.53450012,Clay,248
+2006-500,Halle,Halle,Alemanha,Europa,51.49698,11.968803,81.90995026,Grass,404
+2006-891,Chennai,Chennai,Índia,Ásia,13.08268,80.270718,0.761829436,Hard,358
+2006-540,Wimbledon,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,2533
+2006-807,Acapulco,Acapulco,México,América do Norte,23.634501,-102.552784,1999.349609,Clay,282
+2006-717,Houston,Houston,EUA,América do Norte,29.760427,-95.369803,14.9013443,Clay,194
+2006-321,Stuttgart,Stuttgart,Alemanha,Europa,48.775846,9.182932,327.8624878,Clay,359
+2006-325,Palermo,Palermo,Italia,Europa,38.11569,13.361487,225.9081268,Clay,139
+2006-329,Tokyo,Tóquio,Japão,Ásia,35.6804,139.769017,25.86968803,Hard,537
+2006-341,Metz,Metz,França,Europa,49.119309,6.175716,175.2830353,Hard,387
+2006-438,Moscow,Moscou,Rússia,Europa,55.755826,37.6173,147.0406799,Carpet,375
+2006-439,Umag,Umago,Croácia,Europa,45.437206,13.525721,3.575510502,Clay,192
+2006-407,Rotterdam,Rotterdam,Holanda,Europa,51.8820998,4.4848757,-0.519095242023468,Hard,352
+2006-506,Buenos Aires,Buenos Aires,Argentina,América do Sul,-34.603684,-58.381559,7.12301302,Clay,169
+2006-505,Vina del Mar,Vina del Mar,Chile,América do Sul,-33.015348,-71.550028,172.776062,Clay,237
+2006-1720,Bangkok,Bangkok,Tailânia,Ásia,13.756331,100.501765175.2830352783203,3.559772491,Hard,448
+2006-475,Sopot,Sopot,Polônia,Europa,54.441581,18.560096,65.3839035,Clay,185
+2006-375,Lyon,Lyon,França,Europa,4.835659,45.764043,217.6715393,Carpet,464
+2006-499,Delray Beach,Delray Beach,EUA,América do Norte,26.462489,-80.0776647,5.067657947540283,Hard,349
+2006-495,Dubai,Dubai,Emirados Árabes Unidos,Ásia,25.204849,55.270783,1.280532718,Hard,269
+2006-496,Marseille,Marselha,França,Europa,43.296482,5.36978,40.33418655,Hard,413
+2006-1536,Madrid Masters,Madri,Espanha,Europa,40.416775,-3.70379,667.6986694,Hard,605
+2006-337,Vienna,Viena,Austria,Europa,48.208174,16.373819,208.9177704,Hard,356
+2006-339,Adelaide,Adelaide,Austrália,Oceania,-34.928499,138.600746,56.32033539,Hard,329
+2006-338,Sydney,Sydney,Austrália,Oceania,-33.86882,151.209296,4.215515137,Hard,305
+2006-533,Costa Do Sauipe,Costa Do Sauipe,Brasil,América do Sul,-12.438033,-37.919165,4.36184597,Clay,230
+2006-429,Stockholm,Estocolmo,Suécia,Europa,59.329323,18.068581,38.17290115,Hard,355
+2006-580,Australian Open,Melbourne,Austrália,Oceania,-37.813628,144.963058,8.406817436,Hard,1838
+2006-421,Canada Masters,Toronto,Canadá,América do Norte,43.653226,-79.383184,66.05884552,Hard,530
+2006-423,Los Angeles,Los Angeles,EUA,América do Norte,34.052234,-118.243685,107.4480667,Hard,442
+2006-422,Cincinnati Masters,Cincinnati,EUA,América do Norte,39.103118,-84.51202,251.0748596,Hard,748
+2006-425,Barcelona,Barcelona,Espanha,Europa,41.387397,2.168568,42.32268524,Clay,438
+2006-424,San Jose,San Jose,EUA,América do Norte,37.338208,-121.886329,118.8428268,Hard,406
+2006-414,Hamburg Masters,Hamburgo,Alemanha,Europa,53.551085,9.993682,7.651072502,Clay,329
+2006-418,Washington,Washington,EUA,América do Norte,47.751074,-120.740138,938.9876099,Hard,644
+2006-419,Indianapolis,Indianapolis,EUA,América do Norte,39.768403,-86.158068,229.4706421,Hard,632
+2006-568,St. Petersburg,São Petersburgo,Rússia,América do Norte,59.9502805,30.2894237,3.737375259399414,Carpet,358
+2006-560,US Open,Nova Iorque,EUA,América do Norte,40.712775,-74.005973,4.262852192,Hard,2198
+2006-3348,New Haven,New Haven,EUA,América do Norte,41.308274,-72.927883,12.30588627,Hard,562
+2006-3465,Mumbai,Bombaim,Índia,Ásia,19.075984,72.877656,7.55834341,Hard,407
+2006-308,Munich,Munique,Alemanha,Europa,48.135125,11.581981,523.5631714,Clay,294
+2006-306,Poertschach,Poertschach,Austria,Europa,46.636549,14.139443,579.9257813,Clay,216
+2006-301,Auckland,Auckland,Nova Zelândia,Oceania,-36.850883,174.764488,11.14038277,Hard,222
+2006-311,Queen's Club,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,820
+2006-410,Monte Carlo Masters,Monte Carlo,Mônaco,Europa,43.740072,7.426644,110.5124283,Clay,330
+2006-747,Beijing,Pequim,China,Ásia,39.9042,116.407396,46.6712265,Hard,324
+2006-416,Rome Masters,Roma,Italia,Europa,41.902784,12.496366,37.41212463,Clay,362
+2006-615,Dusseldorf,Dusseldorf,Alemanha,Europa,51.227741,6.773456,30.44205284,Clay,105
+2006-605,Masters Cup 2006,Shanghai,China,Ásia,31.039904,121.3568363,4.040614604949951,Hard,233
+2007-500,Halle,Halle,Alemanha,Europa,51.49698,11.968803,81.90995026,Grass,398
+2007-568,St. Petersburg,São Petersburgo,Rússia,América do Norte,59.9502805,30.2894237,3.737375259399414,Carpet,272
+2007-440,s-Hertogenbosch,Rosmalen,Holanda,Europa,51.717149,5.36081,2.25545454,Grass,499
+2007-560,US Open,Nova Iorque,EUA,América do Norte,40.712775,-74.005973,4.262852192,Hard,2225
+2007-741,Nottingham,Nottingham,Reino Unido,Europa,52.954783,-1.158109,61.28526306,Grass,437
+2007-360,Casablanca,Casablanca,Marrocos,África,33.57311,-7.589843,50.53450012,Clay,245
+2007-317,Amersfoort,Amersfoort,Holanda,Europa,52.156111,5.387827,6.185717583,Clay,263
+2007-301,Auckland,Auckland,Nova Zelândia,Oceania,-36.850883,174.764488,11.14038277,Hard,211
+2007-520,Roland Garros,Paris,França,Europa,48.856614,2.352222,54.06916046,Clay,1359
+2007-316,Bastad,Bastad,Suécia,Europa,56.427389,12.847722,88.20202637,Clay,194
+2007-314,Gstaad,Gstaad,Suíça,Europa,46.471759,7.286573,1402.696899,Clay,330
+2007-315,Newport,Newport,EUA,América do Norte,41.490102,-71.312828,13.53820419,Grass,384
+2007-311,Queen's Club,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,913
+2007-319,Kitzbuhel,Kitzbuhel,Austria,Europa,47.449238,12.392541,906.1345215,Clay,328
+2007-1536,Madrid Masters,Madri,Espanha,Europa,40.416775,-3.70379,667.6986694,Hard,599
+2007-419,Indianapolis,Indianapolis,EUA,América do Norte,39.768403,-86.158068,229.4706421,Hard,465
+2007-418,Washington,Washington,EUA,América do Norte,47.751074,-120.740138,938.9876099,Hard,909
+2007-410,Monte Carlo Masters,Monte Carlo,Mônaco,Europa,43.740072,7.426644,110.5124283,Clay,315
+2007-414,Hamburg Masters,Hamburgo,Alemanha,Europa,53.551085,9.993682,7.651072502,Clay,327
+2007-416,Rome Masters,Roma,Italia,Europa,41.902784,12.496366,37.41212463,Clay,339
+2007-891,Chennai,Chennai,Índia,Ásia,13.08268,80.270718,0.761829436,Hard,295
+2007-3465,Mumbai,Bombaim,Índia,Ásia,19.075984,72.877656,7.55834341,Hard,262
+2007-3348,New Haven,New Haven,EUA,América do Norte,41.308274,-72.927883,12.30588627,Hard,649
+2007-451,Doha,Doha,Catar,Ásia,25.285447,51.53104,10.24268818,Hard,225
+2007-773,Bucharest,Bucareste,Romenia,Europa,44.426767,26.102538,78.06578064,Clay,163
+2007-352,Paris Masters,Paris,França,Europa,48.856614,2.352222,54.06916046,Hard,506
+2007-421,Canada Masters,Toronto,Canadá,América do Norte,43.653226,-79.383184,66.05884552,Hard,672
+2007-422,Cincinnati Masters,Cincinnati,EUA,América do Norte,39.103118,-84.51202,251.0748596,Hard,746
+2007-423,Los Angeles,Los Angeles,EUA,América do Norte,34.052234,-118.243685,107.4480667,Hard,314
+2007-424,San Jose,San Jose,EUA,América do Norte,37.338208,-121.886329,118.8428268,Hard,544
+2007-425,Barcelona,Barcelona,Espanha,Europa,41.387397,2.168568,42.32268524,Clay,313
+2007-429,Stockholm,Estocolmo,Suécia,Europa,59.329323,18.068581,38.17290115,Hard,526
+2007-747,Beijing,Pequim,China,Ásia,39.9042,116.407396,46.6712265,Hard,215
+2007-495,Dubai,Dubai,Emirados Árabes Unidos,Ásia,25.204849,55.270783,1.280532718,Hard,319
+2007-468,Estoril,Estoril,Portugal,Europa,38.713315,-9.393656,3.778222322,Clay,134
+2007-540,Wimbledon,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,2399
+2007-308,Munich,Munique,Alemanha,Europa,48.135125,11.581981,523.5631714,Clay,325
+2007-306,Poertschach,Poertschach,Austria,Europa,46.636549,14.139443,579.9257813,Clay,244
+2007-2276,Zagreb,Zagrebe,Croácia,Europa,45.815011,15.981919,213.4449158,Carpet,574
+2007-402,Memphis,Memphis,EUA,América do Norte,35.149534,-90.04898,72.96620178,Hard,516
+2007-337,Vienna,Viena,Austria,Europa,48.208174,16.373819,208.9177704,Hard,340
+2007-341,Metz,Metz,França,Europa,49.119309,6.175716,175.2830353,Hard,358
+2007-439,Umag,Umago,Croácia,Europa,45.437206,13.525721,3.575510502,Clay,155
+2007-438,Moscow,Moscou,Rússia,Europa,55.755826,37.6173,147.0406799,Hard,341
+2007-807,Acapulco,Acapulco,México,América do Norte,23.634501,-102.552784,1999.349609,Clay,233
+2007-475,Sopot,Sopot,Polônia,Europa,54.441581,18.560096,65.3839035,Clay,155
+2007-338,Sydney,Sydney,Austrália,Oceania,-33.86882,151.209296,4.215515137,Hard,255
+2007-573,Valencia,Valencia,Espanha,Europa,39.469908,-0.376288,27.05393028,Clay,172
+2007-375,Lyon,Lyon,França,Europa,4.835659,45.764043,217.6715393,Carpet,605
+2007-533,Costa Do Sauipe,Costa Do Sauipe,Brasil,América do Sul,-12.438033,-37.919165,4.36184597,Clay,191
+2007-580,Australian Open,Melbourne,Austrália,Oceania,-37.813628,144.963058,8.406817436,Hard,2338
+2007-321,Stuttgart,Stuttgart,Alemanha,Europa,48.775846,9.182932,327.8624878,Clay,259
+2007-496,Marseille,Marselha,França,Europa,43.296482,5.36978,40.33418655,Hard,357
+2007-329,Tokyo,Tóquio,Japão,Ásia,35.6804,139.769017,25.86968803,Hard,669
+2007-328,Basel,Basel,Suíça,Europa,47.559599,7.588576,276.7791138,Hard,441
+2007-407,Rotterdam,Rotterdam,Holanda,Europa,51.8820998,4.4848757,-0.519095242023468,Hard,403
+2007-404,Indian Wells Masters,Indian Wells,EUA,América do Norte,33.717631,-116.340755,277.1852417,Hard,1039
+2007-403,Miami Masters,Miami,EUA,América do Norte,25.7082748,-80.1611257,-0.5187706351280212,Hard,856
+2007-717,Houston,Houston,EUA,América do Norte,29.760427,-95.369803,14.9013443,Clay,262
+2007-1720,Bangkok,Bangkok,Tailânia,Ásia,13.756331,100.501765175.2830352783203,3.559772491,Hard,439
+2007-339,Adelaide,Adelaide,Austrália,Oceania,-34.928499,138.600746,56.32033539,Hard,469
+2007-433,Las Vegas,Las Vegas,EUA,América do Norte,36.169941,-115.13983,621.1883545,Hard,380
+2007-499,Delray Beach,Delray Beach,EUA,América do Norte,26.462489,-80.0776647,5.067657947540283,Hard,436
+2007-506,Buenos Aires,Buenos Aires,Argentina,América do Sul,-34.603684,-58.381559,7.12301302,Clay,220
+2007-615,Dusseldorf,Dusseldorf,Alemanha,Europa,51.227741,6.773456,30.44205284,Clay,113
+2007-605,Masters Cup 2007,Shanghai,China,Ásia,31.039904,121.3568363,4.040614604949951,Hard,119
+2008-338,Sydney,Sydney,Austrália,Oceania,-33.86882,151.209296,4.215515137,Hard,341
+2008-337,Vienna,Viena,Austria,Europa,48.208174,16.373819,208.9177704,Hard,318
+2008-339,Adelaide,Adelaide,Austrália,Oceania,-34.928499,138.600746,56.32033539,Hard,437
+2008-440,s-Hertogenbosch,Rosmalen,Holanda,Europa,51.717149,5.36081,2.25545454,Grass,401
+2008-439,Umag,Umago,Croácia,Europa,45.437206,13.525721,3.575510502,Clay,130
+2008-533,Costa Do Sauipe,Costa Do Sauipe,Brasil,América do Sul,-12.438033,-37.919165,4.36184597,Clay,233
+2008-433,Las Vegas,Las Vegas,EUA,América do Norte,36.169941,-115.13983,621.1883545,Hard,317
+2008-891,Chennai,Chennai,Índia,Ásia,13.08268,80.270718,0.761829436,Hard,288
+2008-96,Beijing Olympics,Pequim,China,Ásia,39.9042,116.407396,46.6712265,Hard,623
+2008-807,Acapulco,Acapulco,México,América do Norte,23.634501,-102.552784,1999.349609,Clay,264
+2008-375,Lyon,Lyon,França,Europa,4.835659,45.764043,217.6715393,Carpet,568
+2008-573,Valencia,Valencia,Espanha,Europa,39.469908,-0.376288,27.05393028,Clay,187
+2008-773,Bucharest,Bucareste,Romenia,Europa,44.426767,26.102538,78.06578064,Clay,233
+2008-500,Halle,Halle,Alemanha,Europa,51.49698,11.968803,81.90995026,Grass,468
+2008-505,Vina del Mar,Vina del Mar,Chile,América do Sul,-33.015348,-71.550028,172.776062,Clay,223
+2008-506,Buenos Aires,Buenos Aires,Argentina,América do Sul,-34.603684,-58.381559,7.12301302,Clay,162
+2008-308,Munich,Munique,Alemanha,Europa,48.135125,11.581981,523.5631714,Clay,302
+2008-306,Poertschach,Poertschach,Austria,Europa,46.636549,14.139443,579.9257813,Clay,322
+2008-301,Auckland,Auckland,Nova Zelândia,Oceania,-36.850883,174.764488,11.14038277,Hard,273
+2008-1536,Madrid Masters,Madri,Espanha,Europa,40.416775,-3.70379,667.6986694,Hard,643
+2008-429,Stockholm,Estocolmo,Suécia,Europa,59.329323,18.068581,38.17290115,Hard,395
+2008-540,Wimbledon,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,2574
+2008-423,Los Angeles,Los Angeles,EUA,América do Norte,34.052234,-118.243685,107.4480667,Hard,250
+2008-422,Cincinnati Masters,Cincinnati,EUA,América do Norte,39.103118,-84.51202,251.0748596,Hard,896
+2008-421,Canada Masters,Toronto,Canadá,América do Norte,43.653226,-79.383184,66.05884552,Hard,598
+2008-425,Barcelona,Barcelona,Espanha,Europa,41.387397,2.168568,42.32268524,Clay,331
+2008-424,San Jose,San Jose,EUA,América do Norte,37.338208,-121.886329,118.8428268,Hard,517
+2008-341,Metz,Metz,França,Europa,49.119309,6.175716,175.2830353,Hard,496
+2008-1720,Bangkok,Bangkok,Tailânia,Ásia,13.756331,100.501765175.2830352783203,3.559772491,Hard,341
+2008-311,Queen's Club,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,826
+2008-315,Newport,Newport,EUA,América do Norte,41.490102,-71.312828,13.53820419,Grass,292
+2008-314,Gstaad,Gstaad,Suíça,Europa,46.471759,7.286573,1402.696899,Clay,343
+2008-317,Amersfoort,Amersfoort,Holanda,Europa,52.156111,5.387827,6.185717583,Clay,192
+2008-316,Bastad,Bastad,Suécia,Europa,56.427389,12.847722,88.20202637,Clay,181
+2008-319,Kitzbuhel,Kitzbuhel,Austria,Europa,47.449238,12.392541,906.1345215,Clay,200
+2008-520,Roland Garros,Paris,França,Europa,48.856614,2.352222,54.06916046,Clay,1652
+2008-418,Washington,Washington,EUA,América do Norte,47.751074,-120.740138,938.9876099,Hard,380
+2008-416,Rome Masters,Roma,Italia,Europa,41.902784,12.496366,37.41212463,Clay,412
+2008-414,Hamburg Masters,Hamburgo,Alemanha,Europa,53.551085,9.993682,7.651072502,Clay,387
+2008-410,Monte Carlo Masters,Monte Carlo,Mônaco,Europa,43.740072,7.426644,110.5124283,Clay,314
+2008-580,Australian Open,Melbourne,Austrália,Oceania,-37.813628,144.963058,8.406817436,Hard,1961
+2008-419,Indianapolis,Indianapolis,EUA,América do Norte,39.768403,-86.158068,229.4706421,Hard,379
+2008-747,Beijing,Pequim,China,Ásia,39.9042,116.407396,46.6712265,Hard,260
+2008-468,Estoril,Estoril,Portugal,Europa,38.713315,-9.393656,3.778222322,Clay,163
+2008-328,Basel,Basel,Suíça,Europa,47.559599,7.588576,276.7791138,Hard,492
+2008-329,Tokyo,Tóquio,Japão,Ásia,35.6804,139.769017,25.86968803,Hard,629
+2008-321,Stuttgart,Stuttgart,Alemanha,Europa,48.775846,9.182932,327.8624878,Clay,285
+2008-451,Doha,Doha,Catar,Ásia,25.285447,51.53104,10.24268818,Hard,233
+2008-352,Paris Masters,Paris,França,Europa,48.856614,2.352222,54.06916046,Hard,633
+2008-741,Nottingham,Nottingham,Reino Unido,Europa,52.954783,-1.158109,61.28526306,Grass,420
+2008-2276,Zagreb,Zagrebe,Croácia,Europa,45.815011,15.981919,213.4449158,Hard,404
+2008-496,Marseille,Marselha,França,Europa,43.296482,5.36978,40.33418655,Hard,518
+2008-495,Dubai,Dubai,Emirados Árabes Unidos,Ásia,25.204849,55.270783,1.280532718,Hard,370
+2008-360,Casablanca,Casablanca,Marrocos,África,33.57311,-7.589843,50.53450012,Clay,288
+2008-717,Houston,Houston,EUA,América do Norte,29.760427,-95.369803,14.9013443,Clay,183
+2008-499,Delray Beach,Delray Beach,EUA,América do Norte,26.462489,-80.0776647,5.067657947540283,Hard,331
+2008-568,St. Petersburg,São Petersburgo,Rússia,América do Norte,59.9502805,30.2894237,3.737375259399414,Hard,286
+2008-560,US Open,Nova Iorque,EUA,América do Norte,40.712775,-74.005973,4.262852192,Hard,2486
+2008-403,Miami Masters,Miami,EUA,América do Norte,25.7082748,-80.1611257,-0.5187706351280212,Hard,1113
+2008-402,Memphis,Memphis,EUA,América do Norte,35.149534,-90.04898,72.96620178,Hard,567
+2008-404,Indian Wells Masters,Indian Wells,EUA,América do Norte,33.717631,-116.340755,277.1852417,Hard,906
+2008-407,Rotterdam,Rotterdam,Holanda,Europa,51.8820998,4.4848757,-0.519095242023468,Hard,402
+2008-3348,New Haven,New Haven,EUA,América do Norte,41.308274,-72.927883,12.30588627,Hard,476
+2008-475,Warsaw,Varsóvia,Polônia,Europa,52.229676,21.012229,101.425766,Clay,182
+2008-615,Dusseldorf,Dusseldorf,Alemanha,Europa,51.227741,6.773456,30.44205284,Clay,223
+2008-615,Dusseldorf,Dusseldorf,Alemanha,Europa,51.227741,6.773456,30.44205284,Clay,223
+2008-605,Masters Cup 2008,Shanghai,China,Ásia,31.039904,121.3568363,4.040614604949951,Hard,161
+2009-329,Tokyo,Tóquio,Japão,Ásia,35.6804,139.769017,25.86968803,Hard,427
+2009-506,Buenos Aires,Buenos Aires,Argentina,América do Sul,-34.603684,-58.381559,7.12301302,Clay,122
+2009-500,Halle,Halle,Alemanha,Europa,51.49698,11.968803,81.90995026,Grass,362
+2009-807,Acapulco,Acapulco,México,América do Norte,23.634501,-102.552784,1999.349609,Clay,268
+2009-717,Houston,Houston,EUA,América do Norte,29.760427,-95.369803,14.9013443,Clay,261
+2009-891,Chennai,Chennai,Índia,Ásia,13.08268,80.270718,0.761829436,Hard,233
+2009-301,Auckland,Auckland,Nova Zelândia,Oceania,-36.850883,174.764488,11.14038277,Hard,340
+2009-308,Munich,Munique,Alemanha,Europa,48.135125,11.581981,523.5631714,Clay,262
+2009-5012,Johannesburg,Johannesburg,África do Sul,África,-26.204103,28.047305,1739.727783,Hard,333
+2009-438,Moscow,Moscou,Rússia,Europa,55.755826,37.6173,147.0406799,Hard,315
+2009-328,Basel,Basel,Suíça,Europa,47.559599,7.588576,276.7791138,Hard,536
+2009-321,Stuttgart,Stuttgart,Alemanha,Europa,48.775846,9.182932,327.8624878,Clay,250
+2009-3348,New Haven,New Haven,EUA,América do Norte,41.308274,-72.927883,12.30588627,Hard,539
+2009-741,Eastbourne,Eastbourne,Reino Unido,Europa,50.768035,0.290472,3.894941568,Grass,405
+2009-403,Miami Masters,Miami,EUA,América do Norte,25.7082748,-80.1611257,-0.5187706351280212,Hard,946
+2009-747,Beijing,Pequim,China,Ásia,39.9042,116.407396,46.6712265,Hard,363
+2009-410,Monte Carlo Masters,Monte Carlo,Mônaco,Europa,43.740072,7.426644,110.5124283,Clay,319
+2009-439,Umag,Umago,Croácia,Europa,45.437206,13.525721,3.575510502,Clay,191
+2009-533,Costa Do Sauipe,Costa Do Sauipe,Brasil,América do Sul,-12.438033,-37.919165,4.36184597,Clay,226
+2009-505,Vina del Mar,Vina del Mar,Chile,América do Sul,-33.015348,-71.550028,172.776062,Clay,139
+2009-360,Casablanca,Casablanca,Marrocos,África,33.57311,-7.589843,50.53450012,Clay,217
+2009-404,Indian Wells Masters,Indian Wells,EUA,América do Norte,33.717631,-116.340755,277.1852417,Hard,970
+2009-407,Rotterdam,Rotterdam,Holanda,Europa,51.8820998,4.4848757,-0.519095242023468,Hard,446
+2009-402,Memphis,Memphis,EUA,América do Norte,35.149534,-90.04898,72.96620178,Hard,462
+2009-560,US Open,Nova Iorque,EUA,América do Norte,40.712775,-74.005973,4.262852192,Hard,2041
+2009-568,St. Petersburg,São Petersburgo,Rússia,América do Norte,59.9502805,30.2894237,3.737375259399414,Hard,308
+2009-6003,Kuala Lumpur,Kuala Lumpur,Malásia,Ásia,3.139003,101.686855,114.5041733,Hard,338
+2009-311,Queen's Club,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,795
+2009-314,Gstaad,Gstaad,Suíça,Europa,46.471759,7.286573,1402.696899,Clay,302
+2009-315,Newport,Newport,EUA,América do Norte,41.490102,-71.312828,13.53820419,Grass,409
+2009-316,Bastad,Bastad,Suécia,Europa,56.427389,12.847722,88.20202637,Clay,165
+2009-496,Marseille,Marselha,França,Europa,43.296482,5.36978,40.33418655,Hard,504
+2009-495,Dubai,Dubai,Emirados Árabes Unidos,Ásia,25.204849,55.270783,1.280532718,Hard,335
+2009-5053,Belgrade,Belgrado,Sérvia,Europa,44.812545,20.46123,86.74519348,Clay,206
+2009-2276,Zagreb,Zagrebe,Croácia,Europa,45.815011,15.981919,213.4449158,Hard,373
+2009-1536,Madrid Masters,Madri,Espanha,Europa,40.416775,-3.70379,667.6986694,Clay,508
+2009-352,Paris Masters,Paris,França,Europa,48.856614,2.352222,54.06916046,Hard,781
+2009-451,Doha,Doha,Catar,Ásia,25.285447,51.53104,10.24268818,Hard,270
+2009-440,s-Hertogenbosch,Rosmalen,Holanda,Europa,51.717149,5.36081,2.25545454,Grass,368
+2009-499,Delray Beach,Delray Beach,EUA,América do Norte,26.462489,-80.0776647,5.067657947540283,Hard,307
+2009-5014,Shanghai Masters,Xangai,China,Ásia,31.230416,121.473701,6.564735889,Hard,641
+2009-773,Bucharest,Bucareste,Romenia,Europa,44.426767,26.102538,78.06578064,Clay,176
+2009-375,Lyon,Lyon,França,Europa,4.835659,45.764043,217.6715393,Hard,489
+2009-573,Valencia,Valencia,Espanha,Europa,39.469908,-0.376288,27.05393028,Hard,240
+2009-419,Indianapolis,Indianapolis,EUA,América do Norte,39.768403,-86.158068,229.4706421,Hard,385
+2009-416,Rome Masters,Roma,Italia,Europa,41.902784,12.496366,37.41212463,Clay,386
+2009-414,Hamburg,Hamburgo,Alemanha,Europa,53.551085,9.993682,7.651072502,Clay,362
+2009-306,Kitzbuhel,Kitzbuhel,Austria,Europa,47.449238,12.392541,906.1345215,Clay,200
+2009-1720,Bangkok,Bangkok,Tailânia,Ásia,13.756331,100.501765175.2830352783203,3.559772491,Hard,396
+2009-341,Metz,Metz,França,Europa,49.119309,6.175716,175.2830353,Hard,422
+2009-580,Australian Open,Melbourne,Austrália,Oceania,-37.813628,144.963058,8.406817436,Hard,2012
+2009-468,Estoril,Estoril,Portugal,Europa,38.713315,-9.393656,3.778222322,Clay,166
+2009-339,Brisbane,Brisbane,Austrália,Oceania,-27.470453,153.026034,12.74699593,Hard,375
+2009-520,Roland Garros,Paris,França,Europa,48.856614,2.352222,54.06916046,Clay,1822
+2009-422,Cincinnati Masters,Cincinnati,EUA,América do Norte,39.103118,-84.51202,251.0748596,Hard,833
+2009-423,Los Angeles,Los Angeles,EUA,América do Norte,34.052234,-118.243685,107.4480667,Hard,317
+2009-421,Canada Masters,Toronto,Canadá,América do Norte,43.653226,-79.383184,66.05884552,Hard,687
+2009-424,San Jose,San Jose,EUA,América do Norte,37.338208,-121.886329,118.8428268,Hard,542
+2009-425,Barcelona,Barcelona,Espanha,Europa,41.387397,2.168568,42.32268524,Clay,376
+2009-540,Wimbledon,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,2854
+2009-429,Stockholm,Estocolmo,Suécia,Europa,59.329323,18.068581,38.17290115,Hard,363
+2009-418,Washington,Washington,EUA,América do Norte,47.751074,-120.740138,938.9876099,Hard,686
+2009-337,Vienna,Viena,Austria,Europa,48.208174,16.373819,208.9177704,Hard,417
+2009-338,Sydney,Sydney,Austrália,Oceania,-33.86882,151.209296,4.215515137,Hard,257
+2009-615,Dusseldorf,Dusseldorf,Alemanha,Europa,51.227741,6.773456,30.44205284,Clay,92
+2009-615,Dusseldorf,Dusseldorf,Alemanha,Europa,51.227741,6.773456,30.44205284,Clay,92
+2009-605,Tour Finals 2009,Londres,Reino Unido,Europa,51.5025248,0.0014754,5.662439823150635,Hard,222
+2010-301,Auckland,Auckland,Nova Zelândia,Oceania,-36.850883,174.764488,11.14038277,Hard,259
+2010-308,Munich,Munique,Alemanha,Europa,48.135125,11.581981,523.5631714,Clay,246
+2010-1536,Madrid Masters,Madri,Espanha,Europa,40.416775,-3.70379,667.6986694,Clay,486
+2010-5053,Belgrade,Belgrado,Sérvia,Europa,44.812545,20.46123,86.74519348,Clay,239
+2010-717,Houston,Houston,EUA,América do Norte,29.760427,-95.369803,14.9013443,Clay,177
+2010-540,Wimbledon,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,3407
+2010-468,Estoril,Estoril,Portugal,Europa,38.713315,-9.393656,3.778222322,Clay,105
+2010-375,Montpellier,Montpellier,França,Europa,43.610769,3.876716,37.19309235,Hard,451
+2010-2276,Zagreb,Zagrebe,Croácia,Europa,45.815011,15.981919,213.4449158,Hard,434
+2010-573,Valencia,Valencia,Espanha,Europa,39.469908,-0.376288,27.05393028,Hard,218
+2010-360,Casablanca,Casablanca,Marrocos,África,33.57311,-7.589843,50.53450012,Clay,179
+2010-6120,Nice,Nice,França,Europa,43.710173,7.261953,140.7552795,Clay,198
+2010-440,s-Hertogenbosch,Rosmalen,Holanda,Europa,51.717149,5.36081,2.25545454,Grass,339
+2010-560,US Open,Nova Iorque,EUA,América do Norte,40.712775,-74.005973,4.262852192,Hard,2303
+2010-773,Bucharest,Bucareste,Romenia,Europa,44.426767,26.102538,78.06578064,Clay,114
+2010-568,St. Petersburg,São Petersburgo,Rússia,América do Norte,59.9502805,30.2894237,3.737375259399414,Hard,324
+2010-6116,Atlanta,Atlanta,EUA,América do Norte,33.748995,-84.387982,308.6121521,Hard,431
+2010-451,Doha,Doha,Catar,Ásia,25.285447,51.53104,10.24268818,Hard,274
+2010-3348,New Haven,New Haven,EUA,América do Norte,41.308274,-72.927883,12.30588627,Hard,435
+2010-5012,Johannesburg,Johannesburg,África do Sul,África,-26.204103,28.047305,1739.727783,Hard,362
+2010-5014,Shanghai Masters,Xangai,China,Ásia,31.230416,121.473701,6.564735889,Hard,567
+2010-580,Australian Open,Melbourne,Austrália,Oceania,-37.813628,144.963058,8.406817436,Hard,2110
+2010-506,Buenos Aires,Buenos Aires,Argentina,América do Sul,-34.603684,-58.381559,7.12301302,Clay,147
+2010-429,Stockholm,Estocolmo,Suécia,Europa,59.329323,18.068581,38.17290115,Hard,265
+2010-505,Santiago,Santiago,Chile,América do Sul,-33.44889,-70.669265,522.3574829,Clay,237
+2010-500,Halle,Halle,Alemanha,Europa,51.49698,11.968803,81.90995026,Grass,467
+2010-352,Paris Masters,Paris,França,Europa,48.856614,2.352222,54.06916046,Hard,812
+2010-421,Canada Masters,Toronto,Canadá,América do Norte,43.653226,-79.383184,66.05884552,Hard,672
+2010-422,Cincinnati Masters,Cincinnati,EUA,América do Norte,39.103118,-84.51202,251.0748596,Hard,792
+2010-423,Los Angeles,Los Angeles,EUA,América do Norte,34.052234,-118.243685,107.4480667,Hard,294
+2010-424,San Jose,San Jose,EUA,América do Norte,37.338208,-121.886329,118.8428268,Hard,484
+2010-425,Barcelona,Barcelona,Espanha,Europa,41.387397,2.168568,42.32268524,Clay,410
+2010-338,Sydney,Sydney,Austrália,Oceania,-33.86882,151.209296,4.215515137,Hard,338
+2010-339,Brisbane,Brisbane,Austrália,Oceania,-27.470453,153.026034,12.74699593,Hard,424
+2010-337,Vienna,Viena,Austria,Europa,48.208174,16.373819,208.9177704,Hard,358
+2010-741,Eastbourne,Eastbourne,Reino Unido,Europa,50.768035,0.290472,3.894941568,Grass,358
+2010-533,Costa Do Sauipe,Costa Do Sauipe,Brasil,América do Sul,-12.438033,-37.919165,4.36184597,Clay,214
+2010-747,Beijing,Pequim,China,Ásia,39.9042,116.407396,46.6712265,Hard,360
+2010-439,Umag,Umago,Croácia,Europa,45.437206,13.525721,3.575510502,Clay,114
+2010-438,Moscow,Moscou,Rússia,Europa,55.755826,37.6173,147.0406799,Hard,345
+2010-341,Metz,Metz,França,Europa,49.119309,6.175716,175.2830353,Hard,305
+2010-329,Tokyo,Tóquio,Japão,Ásia,35.6804,139.769017,25.86968803,Hard,495
+2010-328,Basel,Basel,Suíça,Europa,47.559599,7.588576,276.7791138,Hard,343
+2010-321,Stuttgart,Stuttgart,Alemanha,Europa,48.775846,9.182932,327.8624878,Clay,241
+2010-807,Acapulco,Acapulco,México,América do Norte,23.634501,-102.552784,1999.349609,Clay,215
+2010-6003,Kuala Lumpur,Kuala Lumpur,Malásia,Ásia,3.139003,101.686855,114.5041733,Hard,266
+2010-520,Roland Garros,Paris,França,Europa,48.856614,2.352222,54.06916046,Clay,1800
+2010-407,Rotterdam,Rotterdam,Holanda,Europa,51.8820998,4.4848757,-0.519095242023468,Hard,331
+2010-404,Indian Wells Masters,Indian Wells,EUA,América do Norte,33.717631,-116.340755,277.1852417,Hard,974
+2010-402,Memphis,Memphis,EUA,América do Norte,35.149534,-90.04898,72.96620178,Hard,595
+2010-403,Miami Masters,Miami,EUA,América do Norte,25.7082748,-80.1611257,-0.5187706351280212,Hard,1007
+2010-1720,Bangkok,Bangkok,Tailânia,Ásia,13.756331,100.501765175.2830352783203,3.559772491,Hard,343
+2010-316,Bastad,Bastad,Suécia,Europa,56.427389,12.847722,88.20202637,Clay,248
+2010-314,Gstaad,Gstaad,Suíça,Europa,46.471759,7.286573,1402.696899,Clay,306
+2010-315,Newport,Newport,EUA,América do Norte,41.490102,-71.312828,13.53820419,Grass,449
+2010-311,Queen's Club,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,738
+2010-499,Delray Beach,Delray Beach,EUA,América do Norte,26.462489,-80.0776647,5.067657947540283,Hard,448
+2010-495,Dubai,Dubai,Emirados Árabes Unidos,Ásia,25.204849,55.270783,1.280532718,Hard,385
+2010-496,Marseille,Marselha,França,Europa,43.296482,5.36978,40.33418655,Hard,436
+2010-891,Chennai,Chennai,Índia,Ásia,13.08268,80.270718,0.761829436,Hard,230
+2010-410,Monte Carlo Masters,Monte Carlo,Mônaco,Europa,43.740072,7.426644,110.5124283,Clay,313
+2010-414,Hamburg,Hamburgo,Alemanha,Europa,53.551085,9.993682,7.651072502,Clay,391
+2010-416,Rome Masters,Roma,Italia,Europa,41.902784,12.496366,37.41212463,Clay,472
+2010-418,Washington,Washington,EUA,América do Norte,47.751074,-120.740138,938.9876099,Hard,528
+2010-5059,Curitiba CH,Curitiba,Brasil,América do Sul,-25.437238,-49.269973,917.6322632,Clay,268
+2010-615,Dusseldorf,Dusseldorf,Alemanha,Europa,51.227741,6.773456,30.44205284,Clay,202
+2010-615,Dusseldorf,Dusseldorf,Alemanha,Europa,51.227741,6.773456,30.44205284,Clay,202
+2010-605,Tour Finals 2010,Londres,Reino Unido,Europa,51.5025248,0.0014754,5.662439823150635,Hard,196
+2011-440,s-Hertogenbosch,Rosmalen,Holanda,Europa,51.717149,5.36081,2.25545454,Grass,319
+2011-741,Eastbourne,Eastbourne,Reino Unido,Europa,50.768035,0.290472,3.894941568,Grass,300
+2011-316,Bastad,Bastad,Suécia,Europa,56.427389,12.847722,88.20202637,Clay,156
+2011-560,US Open,Nova Iorque,EUA,América do Norte,40.712775,-74.005973,4.262852192,Hard,1878
+2011-314,Gstaad,Gstaad,Suíça,Europa,46.471759,7.286573,1402.696899,Clay,289
+2011-568,St. Petersburg,São Petersburgo,Rússia,América do Norte,59.9502805,30.2894237,3.737375259399414,Hard,228
+2011-311,Queen's Club,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,757
+2011-2276,Zagreb,Zagrebe,Croácia,Europa,45.815011,15.981919,213.4449158,Hard,295
+2011-580,Australian Open,Melbourne,Austrália,Oceania,-37.813628,144.963058,8.406817436,Hard,2157
+2011-468,Estoril,Estoril,Portugal,Europa,38.713315,-9.393656,3.778222322,Clay,167
+2011-773,Bucharest,Bucareste,Romenia,Europa,44.426767,26.102538,78.06578064,Clay,156
+2011-422,Cincinnati Masters,Cincinnati,EUA,América do Norte,39.103118,-84.51202,251.0748596,Hard,632
+2011-573,Valencia,Valencia,Espanha,Europa,39.469908,-0.376288,27.05393028,Hard,294
+2011-301,Auckland,Auckland,Nova Zelândia,Oceania,-36.850883,174.764488,11.14038277,Hard,296
+2011-308,Munich,Munique,Alemanha,Europa,48.135125,11.581981,523.5631714,Clay,255
+2011-6003,Kuala Lumpur,Kuala Lumpur,Malásia,Ásia,3.139003,101.686855,114.5041733,Hard,228
+2011-495,Dubai,Dubai,Emirados Árabes Unidos,Ásia,25.204849,55.270783,1.280532718,Hard,294
+2011-496,Marseille,Marselha,França,Europa,43.296482,5.36978,40.33418655,Hard,423
+2011-499,Delray Beach,Delray Beach,EUA,América do Norte,26.462489,-80.0776647,5.067657947540283,Hard,348
+2011-423,Los Angeles,Los Angeles,EUA,América do Norte,34.052234,-118.243685,107.4480667,Hard,256
+2011-418,Washington,Washington,EUA,América do Norte,47.751074,-120.740138,938.9876099,Hard,480
+2011-315,Newport,Newport,EUA,América do Norte,41.490102,-71.312828,13.53820419,Grass,318
+2011-540,Wimbledon,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,2556
+2011-410,Monte Carlo Masters,Monte Carlo,Mônaco,Europa,43.740072,7.426644,110.5124283,Clay,291
+2011-319,Kitzbuhel,Kitzbuhel,Austria,Europa,47.449238,12.392541,906.1345215,Clay,222
+2011-414,Hamburg,Hamburgo,Alemanha,Europa,53.551085,9.993682,7.651072502,Clay,340
+2011-416,Rome Masters,Roma,Italia,Europa,41.902784,12.496366,37.41212463,Clay,373
+2011-807,Acapulco,Acapulco,México,América do Norte,23.634501,-102.552784,1999.349609,Clay,216
+2011-6242,Winston-Salem,Winston-Salem,EUA,América do Norte,36.09986,-80.244216,251.0912781,Hard,540
+2011-6120,Nice,Nice,França,Europa,43.710173,7.261953,140.7552795,Clay,195
+2011-337,Vienna,Viena,Austria,Europa,48.208174,16.373819,208.9177704,Hard,418
+2011-328,Basel,Basel,Suíça,Europa,47.559599,7.588576,276.7791138,Hard,315
+2011-329,Tokyo,Tóquio,Japão,Ásia,35.6804,139.769017,25.86968803,Hard,339
+2011-321,Stuttgart,Stuttgart,Alemanha,Europa,48.775846,9.182932,327.8624878,Clay,201
+2011-891,Chennai,Chennai,Índia,Ásia,13.08268,80.270718,0.761829436,Hard,255
+2011-717,Houston,Houston,EUA,América do Norte,29.760427,-95.369803,14.9013443,Clay,213
+2011-5053,Belgrade,Belgrado,Sérvia,Europa,44.812545,20.46123,86.74519348,Clay,134
+2011-403,Miami Masters,Miami,EUA,América do Norte,25.7082748,-80.1611257,-0.5187706351280212,Hard,957
+2011-402,Memphis,Memphis,EUA,América do Norte,35.149534,-90.04898,72.96620178,Hard,567
+2011-407,Rotterdam,Rotterdam,Holanda,Europa,51.8820998,4.4848757,-0.519095242023468,Hard,465
+2011-404,Indian Wells Masters,Indian Wells,EUA,América do Norte,33.717631,-116.340755,277.1852417,Hard,992
+2011-6116,Atlanta,Atlanta,EUA,América do Norte,33.748995,-84.387982,308.6121521,Hard,398
+2011-339,Brisbane,Brisbane,Austrália,Oceania,-27.470453,153.026034,12.74699593,Hard,454
+2011-338,Sydney,Sydney,Austrália,Oceania,-33.86882,151.209296,4.215515137,Hard,315
+2011-520,Roland Garros,Paris,França,Europa,48.856614,2.352222,54.06916046,Clay,1543
+2011-438,Moscow,Moscou,Rússia,Europa,55.755826,37.6173,147.0406799,Hard,366
+2011-1720,Bangkok,Bangkok,Tailânia,Ásia,13.756331,100.501765175.2830352783203,3.559772491,Hard,293
+2011-439,Umag,Umago,Croácia,Europa,45.437206,13.525721,3.575510502,Clay,141
+2011-1536,Madrid Masters,Madri,Espanha,Europa,40.416775,-3.70379,667.6986694,Clay,534
+2011-533,Costa Do Sauipe,Costa Do Sauipe,Brasil,América do Sul,-12.438033,-37.919165,4.36184597,Clay,182
+2011-421,Canada Masters,Toronto,Canadá,América do Norte,43.653226,-79.383184,66.05884552,Hard,635
+2011-425,Barcelona,Barcelona,Espanha,Europa,41.387397,2.168568,42.32268524,Clay,313
+2011-424,San Jose,San Jose,EUA,América do Norte,37.338208,-121.886329,118.8428268,Hard,379
+2011-429,Stockholm,Estocolmo,Suécia,Europa,59.329323,18.068581,38.17290115,Hard,347
+2011-341,Metz,Metz,França,Europa,49.119309,6.175716,175.2830353,Hard,397
+2011-500,Halle,Halle,Alemanha,Europa,51.49698,11.968803,81.90995026,Grass,426
+2011-506,Buenos Aires,Buenos Aires,Argentina,América do Sul,-34.603684,-58.381559,7.12301302,Clay,163
+2011-505,Santiago,Santiago,Chile,América do Sul,-33.44889,-70.669265,522.3574829,Clay,204
+2011-747,Beijing,Pequim,China,Ásia,39.9042,116.407396,46.6712265,Hard,333
+2011-451,Doha,Doha,Catar,Ásia,25.285447,51.53104,10.24268818,Hard,405
+2011-5012,Johannesburg,Johannesburg,África do Sul,África,-26.204103,28.047305,1739.727783,Hard,420
+2011-5014,Shanghai Masters,Xangai,China,Ásia,31.230416,121.473701,6.564735889,Hard,608
+2011-360,Casablanca,Casablanca,Marrocos,África,33.57311,-7.589843,50.53450012,Clay,143
+2011-615,Dusseldorf,Dusseldorf,Alemanha,Europa,51.227741,6.773456,30.44205284,Clay,136
+2011-615,Dusseldorf,Dusseldorf,Alemanha,Europa,51.227741,6.773456,30.44205284,Clay,136
+2011-605,Tour Finals 2011,Londres,Reino Unido,Europa,51.5025248,0.0014754,5.662439823150635,Hard,164
+2011-352,Paris Masters,Paris,França,Europa,48.856614,2.352222,54.06916046,Hard,518
+2012-418,Washington,Washington,EUA,América do Norte,47.751074,-120.740138,938.9876099,Hard,443
+2012-439,Umag,Umago,Croácia,Europa,45.437206,13.525721,3.575510502,Clay,157
+2012-410,Monte Carlo Masters,Monte Carlo,Mônaco,Europa,43.740072,7.426644,110.5124283,Clay,308
+2012-416,Rome Masters,Roma,Italia,Europa,41.902784,12.496366,37.41212463,Clay,329
+2012-407,Rotterdam,Rotterdam,Holanda,Europa,51.8820998,4.4848757,-0.519095242023468,Hard,291
+2012-6120,Nice,Nice,França,Europa,43.710173,7.261953,140.7552795,Clay,228
+2012-315,Newport,Newport,EUA,América do Norte,41.490102,-71.312828,13.53820419,Grass,410
+2012-316,Bastad,Bastad,Suécia,Europa,56.427389,12.847722,88.20202637,Clay,167
+2012-311,Queen's Club,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,814
+2012-319,Kitzbuhel,Kitzbuhel,Austria,Europa,47.449238,12.392541,906.1345215,Clay,213
+2012-568,St. Petersburg,São Petersburgo,Rússia,América do Norte,59.9502805,30.2894237,3.737375259399414,Hard,167
+2012-429,Stockholm,Estocolmo,Suécia,Europa,59.329323,18.068581,38.17290115,Hard,370
+2012-424,San Jose,San Jose,EUA,América do Norte,37.338208,-121.886329,118.8428268,Hard,380
+2012-425,Barcelona,Barcelona,Espanha,Europa,41.387397,2.168568,42.32268524,Clay,377
+2012-422,Cincinnati Masters,Cincinnati,EUA,América do Norte,39.103118,-84.51202,251.0748596,Hard,606
+2012-423,Los Angeles,Los Angeles,EUA,América do Norte,34.052234,-118.243685,107.4480667,Hard,223
+2012-421,Canada Masters,Toronto,Canadá,América do Norte,43.653226,-79.383184,66.05884552,Hard,501
+2012-414,Hamburg,Hamburgo,Alemanha,Europa,53.551085,9.993682,7.651072502,Clay,176
+2012-301,Auckland,Auckland,Nova Zelândia,Oceania,-36.850883,174.764488,11.14038277,Hard,253
+2012-717,Houston,Houston,EUA,América do Norte,29.760427,-95.369803,14.9013443,Clay,253
+2012-499,Delray Beach,Delray Beach,EUA,América do Norte,26.462489,-80.0776647,5.067657947540283,Hard,343
+2012-308,Munich,Munique,Alemanha,Europa,48.135125,11.581981,523.5631714,Clay,268
+2012-1536,Madrid Masters,Madri,Espanha,Europa,40.416775,-3.70379,667.6986694,Clay,661
+2012-438,Moscow,Moscou,Rússia,Europa,55.755826,37.6173,147.0406799,Hard,349
+2012-533,Sao Paulo,Sao Paulo,Brasil,América do Sul,-23.555771,-46.639557,797.1174927,Clay,263
+2012-402,Memphis,Memphis,EUA,América do Norte,35.149534,-90.04898,72.96620178,Hard,487
+2012-338,Sydney,Sydney,Austrália,Oceania,-33.86882,151.209296,4.215515137,Hard,306
+2012-339,Brisbane,Brisbane,Austrália,Oceania,-27.470453,153.026034,12.74699593,Hard,363
+2012-314,Gstaad,Gstaad,Suíça,Europa,46.471759,7.286573,1402.696899,Clay,291
+2012-540,Wimbledon,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,2781
+2012-496,Marseille,Marselha,França,Europa,43.296482,5.36978,40.33418655,Hard,484
+2012-403,Miami Masters,Miami,EUA,América do Norte,25.7082748,-80.1611257,-0.5187706351280212,Hard,910
+2012-440,s-Hertogenbosch,Rosmalen,Holanda,Europa,51.717149,5.36081,2.25545454,Grass,286
+2012-495,Dubai,Dubai,Emirados Árabes Unidos,Ásia,25.204849,55.270783,1.280532718,Hard,344
+2012-520,Roland Garros,Paris,França,Europa,48.856614,2.352222,54.06916046,Clay,1675
+2012-5053,Belgrade,Belgrado,Sérvia,Europa,44.812545,20.46123,86.74519348,Clay,199
+2012-329,Tokyo,Tóquio,Japão,Ásia,35.6804,139.769017,25.86968803,Hard,375
+2012-328,Basel,Basel,Suíça,Europa,47.559599,7.588576,276.7791138,Hard,413
+2012-96,London Olympics,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,920
+2012-1720,Bangkok,Bangkok,Tailânia,Ásia,13.756331,100.501765175.2830352783203,3.559772491,Hard,216
+2012-451,Doha,Doha,Catar,Ásia,25.285447,51.53104,10.24268818,Hard,250
+2012-6003,Kuala Lumpur,Kuala Lumpur,Malásia,Ásia,3.139003,101.686855,114.5041733,Hard,207
+2012-2276,Zagreb,Zagrebe,Croácia,Europa,45.815011,15.981919,213.4449158,Hard,393
+2012-807,Acapulco,Acapulco,México,América do Norte,23.634501,-102.552784,1999.349609,Clay,196
+2012-573,Valencia,Valencia,Espanha,Europa,39.469908,-0.376288,27.05393028,Hard,328
+2012-360,Casablanca,Casablanca,Marrocos,África,33.57311,-7.589843,50.53450012,Clay,129
+2012-505,Santiago,Santiago,Chile,América do Sul,-33.44889,-70.669265,522.3574829,Clay,111
+2012-506,Buenos Aires,Buenos Aires,Argentina,América do Sul,-34.603684,-58.381559,7.12301302,Clay,188
+2012-891,Chennai,Chennai,Índia,Ásia,13.08268,80.270718,0.761829436,Hard,314
+2012-6242,Winston-Salem,Winston-Salem,EUA,América do Norte,36.09986,-80.244216,251.0912781,Hard,609
+2012-352,Paris Masters,Paris,França,Europa,48.856614,2.352222,54.06916046,Hard,620
+2012-6116,Atlanta,Atlanta,EUA,América do Norte,33.748995,-84.387982,308.6121521,Hard,435
+2012-341,Metz,Metz,França,Europa,49.119309,6.175716,175.2830353,Hard,376
+2012-337,Vienna,Viena,Austria,Europa,48.208174,16.373819,208.9177704,Hard,429
+2012-500,Halle,Halle,Alemanha,Europa,51.49698,11.968803,81.90995026,Grass,343
+2012-321,Stuttgart,Stuttgart,Alemanha,Europa,48.775846,9.182932,327.8624878,Clay,230
+2012-747,Beijing,Pequim,China,Ásia,39.9042,116.407396,46.6712265,Hard,345
+2012-580,Australian Open,Melbourne,Austrália,Oceania,-37.813628,144.963058,8.406817436,Hard,1926
+2012-741,Eastbourne,Eastbourne,Reino Unido,Europa,50.768035,0.290472,3.894941568,Grass,257
+2012-468,Estoril,Estoril,Portugal,Europa,38.713315,-9.393656,3.778222322,Clay,136
+2012-375,Montpellier,Montpellier,França,Europa,43.610769,3.876716,37.19309235,Hard,366
+2012-560,US Open,Nova Iorque,EUA,América do Norte,40.712775,-74.005973,4.262852192,Hard,2426
+2012-404,Indian Wells Masters,Indian Wells,EUA,América do Norte,33.717631,-116.340755,277.1852417,Hard,863
+2012-773,Bucharest,Bucareste,Romenia,Europa,44.426767,26.102538,78.06578064,Clay,163
+2012-5014,Shanghai Masters,Xangai,China,Ásia,31.230416,121.473701,6.564735889,Hard,644
+2012-615,Dusseldorf,Dusseldorf,Alemanha,Europa,51.227741,6.773456,30.44205284,Clay,211
+2012-615,Dusseldorf,Dusseldorf,Alemanha,Europa,51.227741,6.773456,30.44205284,Clay,211
+2012-605,Tour Finals 2012,Londres,Reino Unido,Europa,51.5025248,0.0014754,5.662439823150635,Hard,163
+2013-319,Kitzbuhel,Kitzbuhel,Austria,Europa,47.449238,12.392541,906.1345215,Clay,206
+2013-440,s-Hertogenbosch,Rosmalen,Holanda,Europa,51.717149,5.36081,2.25545454,Grass,358
+2013-328,Basel,Basel,Suíça,Europa,47.559599,7.588576,276.7791138,Hard,359
+2013-741,Eastbourne,Eastbourne,Reino Unido,Europa,50.768035,0.290472,3.894941568,Grass,334
+2013-533,Sao Paulo,Sao Paulo,Brasil,América do Sul,-23.555771,-46.639557,797.1174927,Clay,322
+2013-1720,Bangkok,Bangkok,Tailânia,Ásia,13.756331,100.501765175.2830352783203,3.559772491,Hard,442
+2013-6710,Power Horse Cup,Düsseldorf,Alemanha,Europa,51.227741,6.773456,30.44205284,Clay,206
+2013-422,Cincinnati Masters,Cincinnati,EUA,América do Norte,39.103118,-84.51202,251.0748596,Hard,713
+2013-5014,Shanghai Masters,Xangai,China,Ásia,31.230416,121.473701,6.564735889,Hard,800
+2013-316,Bastad,Bastad,Suécia,Europa,56.427389,12.847722,88.20202637,Clay,169
+2013-338,Sydney,Sydney,Austrália,Oceania,-33.86882,151.209296,4.215515137,Hard,305
+2013-337,Vienna,Viena,Austria,Europa,48.208174,16.373819,208.9177704,Hard,415
+2013-425,Barcelona,Barcelona,Espanha,Europa,41.387397,2.168568,42.32268524,Clay,356
+2013-424,San Jose,San Jose,EUA,América do Norte,37.338208,-121.886329,118.8428268,Hard,391
+2013-540,Wimbledon,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,2721
+2013-6120,Nice,Nice,França,Europa,43.710173,7.261953,140.7552795,Clay,158
+2013-429,Stockholm,Estocolmo,Suécia,Europa,59.329323,18.068581,38.17290115,Hard,321
+2013-468,Estoril,Estoril,Portugal,Europa,38.713315,-9.393656,3.778222322,Clay,133
+2013-496,Marseille,Marselha,França,Europa,43.296482,5.36978,40.33418655,Hard,444
+2013-495,Dubai,Dubai,Emirados Árabes Unidos,Ásia,25.204849,55.270783,1.280532718,Hard,281
+2013-499,Delray Beach,Delray Beach,EUA,América do Norte,26.462489,-80.0776647,5.067657947540283,Hard,377
+2013-506,Buenos Aires,Buenos Aires,Argentina,América do Sul,-34.603684,-58.381559,7.12301302,Clay,152
+2013-717,Houston,Houston,EUA,América do Norte,29.760427,-95.369803,14.9013443,Clay,253
+2013-2276,Zagreb,Zagrebe,Croácia,Europa,45.815011,15.981919,213.4449158,Hard,341
+2013-6242,Winston-Salem,Winston-Salem,EUA,América do Norte,36.09986,-80.244216,251.0912781,Hard,589
+2013-416,Rome Masters,Roma,Italia,Europa,41.902784,12.496366,37.41212463,Clay,439
+2013-414,Hamburg,Hamburgo,Alemanha,Europa,53.551085,9.993682,7.651072502,Clay,357
+2013-891,Chennai,Chennai,Índia,Ásia,13.08268,80.270718,0.761829436,Hard,293
+2013-500,Halle,Halle,Alemanha,Europa,51.49698,11.968803,81.90995026,Grass,282
+2013-329,Tokyo,Tóquio,Japão,Ásia,35.6804,139.769017,25.86968803,Hard,509
+2013-315,Newport,Newport,EUA,América do Norte,41.490102,-71.312828,13.53820419,Grass,434
+2013-314,Gstaad,Gstaad,Suíça,Europa,46.471759,7.286573,1402.696899,Clay,302
+2013-407,Rotterdam,Rotterdam,Holanda,Europa,51.8820998,4.4848757,-0.519095242023468,Hard,376
+2013-403,Miami Masters,Miami,EUA,América do Norte,25.7082748,-80.1611257,-0.5187706351280212,Hard,887
+2013-402,Memphis,Memphis,EUA,América do Norte,35.149534,-90.04898,72.96620178,Hard,388
+2013-560,US Open,Nova Iorque,EUA,América do Norte,40.712775,-74.005973,4.262852192,Hard,2230
+2013-321,Stuttgart,Stuttgart,Alemanha,Europa,48.775846,9.182932,327.8624878,Clay,210
+2013-807,Acapulco,Acapulco,México,América do Norte,23.634501,-102.552784,1999.349609,Clay,184
+2013-773,Bucharest,Bucareste,Romenia,Europa,44.426767,26.102538,78.06578064,Clay,160
+2013-6718,Bogota,Bogota,Colômbia,América do Sul,4.710989,-74.072092,2797.953857,Hard,400
+2013-573,Valencia,Valencia,Espanha,Europa,39.469908,-0.376288,27.05393028,Hard,342
+2013-360,Casablanca,Casablanca,Marrocos,África,33.57311,-7.589843,50.53450012,Clay,206
+2013-747,Beijing,Pequim,China,Ásia,39.9042,116.407396,46.6712265,Hard,282
+2013-311,Queen's Club,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,852
+2013-580,Australian Open,Melbourne,Austrália,Oceania,-37.813628,144.963058,8.406817436,Hard,2332
+2013-439,Umag,Umago,Croácia,Europa,45.437206,13.525721,3.575510502,Clay,168
+2013-505,Santiago,Santiago,Chile,América do Sul,-33.44889,-70.669265,522.3574829,Clay,192
+2013-375,Montpellier,Montpellier,França,Europa,43.610769,3.876716,37.19309235,Hard,320
+2013-404,Indian Wells Masters,Indian Wells,EUA,América do Norte,33.717631,-116.340755,277.1852417,Hard,810
+2013-6003,Kuala Lumpur,Kuala Lumpur,Malásia,Ásia,3.139003,101.686855,114.5041733,Hard,221
+2013-438,Moscow,Moscou,Rússia,Europa,55.755826,37.6173,147.0406799,Hard,266
+2013-339,Brisbane,Brisbane,Austrália,Oceania,-27.470453,153.026034,12.74699593,Hard,290
+2013-1536,Madrid Masters,Madri,Espanha,Europa,40.416775,-3.70379,667.6986694,Clay,483
+2013-308,Munich,Munique,Alemanha,Europa,48.135125,11.581981,523.5631714,Clay,289
+2013-341,Metz,Metz,França,Europa,49.119309,6.175716,175.2830353,Hard,328
+2013-451,Doha,Doha,Catar,Ásia,25.285447,51.53104,10.24268818,Hard,292
+2013-6116,Atlanta,Atlanta,EUA,América do Norte,33.748995,-84.387982,308.6121521,Hard,500
+2013-568,St. Petersburg,São Petersburgo,Rússia,América do Norte,59.9502805,30.2894237,3.737375259399414,Hard,276
+2013-418,Washington,Washington,EUA,América do Norte,47.751074,-120.740138,938.9876099,Hard,708
+2013-301,Auckland,Auckland,Nova Zelândia,Oceania,-36.850883,174.764488,11.14038277,Hard,331
+2013-421,Canada Masters,Toronto,Canadá,América do Norte,43.653226,-79.383184,66.05884552,Hard,601
+2013-520,Roland Garros,Paris,França,Europa,48.856614,2.352222,54.06916046,Clay,1611
+2013-352,Paris Masters,Paris,França,Europa,48.856614,2.352222,54.06916046,Hard,674
+2013-410,Monte Carlo Masters,Monte Carlo,Mônaco,Europa,43.740072,7.426644,110.5124283,Clay,357
+2013-605,Tour Finals 2013,Londres,Reino Unido,Europa,51.5025248,0.0014754,5.662439823150635,Hard,183
+2014-301,Auckland,Auckland,Nova Zelândia,Oceania,-36.850883,174.764488,11.14038277,Hard,342
+2014-403,Miami Masters,Miami,EUA,América do Norte,25.7082748,-80.1611257,-0.5187706351280212,Hard,1102
+2014-421,Canada Masters,Toronto,Canadá,América do Norte,43.653226,-79.383184,66.05884552,Hard,740
+2014-500,Halle,Halle,Alemanha,Europa,51.49698,11.968803,81.90995026,Grass,396
+2014-506,Buenos Aires,Buenos Aires,Argentina,América do Sul,-34.603684,-58.381559,7.12301302,Clay,164
+2014-416,Rome Masters,Roma,Italia,Europa,41.902784,12.496366,37.41212463,Clay,474
+2014-451,Doha,Doha,Catar,Ásia,25.285447,51.53104,10.24268818,Hard,293
+2014-321,Stuttgart,Stuttgart,Alemanha,Europa,48.775846,9.182932,327.8624878,Clay,234
+2014-6718,Bogota,Bogota,Colômbia,América do Sul,4.710989,-74.072092,2797.953857,Hard,430
+2014-505,Vina del Mar,Vina del Mar,Chile,América do Sul,-33.015348,-71.550028,172.776062,Clay,261
+2014-337,Vienna,Viena,Austria,Europa,48.208174,16.373819,208.9177704,Hard,392
+2014-533,Sao Paulo,Sao Paulo,Brasil,América do Sul,-23.555771,-46.639557,797.1174927,Clay,305
+2014-6967,Shenzhen,Shenzhen,China,Ásia,22.543096,114.057865,39.16783142,Hard,353
+2014-747,Beijing,Pequim,China,Ásia,39.9042,116.407396,46.6712265,Hard,297
+2014-360,Casablanca,Casablanca,Marrocos,África,33.57311,-7.589843,50.53450012,Clay,134
+2014-741,Eastbourne,Eastbourne,Reino Unido,Europa,50.768035,0.290472,3.894941568,Grass,389
+2014-425,Barcelona,Barcelona,Espanha,Europa,41.387397,2.168568,42.32268524,Clay,308
+2014-414,Hamburg,Hamburgo,Alemanha,Europa,53.551085,9.993682,7.651072502,Clay,291
+2014-422,Cincinnati Masters,Cincinnati,EUA,América do Norte,39.103118,-84.51202,251.0748596,Hard,717
+2014-495,Dubai,Dubai,Emirados Árabes Unidos,Ásia,25.204849,55.270783,1.280532718,Hard,282
+2014-316,Bastad,Bastad,Suécia,Europa,56.427389,12.847722,88.20202637,Clay,154
+2014-438,Moscow,Moscou,Rússia,Europa,55.755826,37.6173,147.0406799,Hard,313
+2014-319,Kitzbuhel,Kitzbuhel,Austria,Europa,47.449238,12.392541,906.1345215,Clay,177
+2014-410,Monte Carlo Masters,Monte Carlo,Mônaco,Europa,43.740072,7.426644,110.5124283,Clay,353
+2014-496,Marseille,Marselha,França,Europa,43.296482,5.36978,40.33418655,Hard,456
+2014-468,Estoril,Estoril,Portugal,Europa,38.713315,-9.393656,3.778222322,Clay,146
+2014-6120,Nice,Nice,França,Europa,43.710173,7.261953,140.7552795,Clay,245
+2014-580,Australian Open,Melbourne,Austrália,Oceania,-37.813628,144.963058,8.406817436,Hard,2459
+2014-339,Brisbane,Brisbane,Austrália,Oceania,-27.470453,153.026034,12.74699593,Hard,497
+2014-807,Acapulco,Acapulco,México,América do Norte,23.634501,-102.552784,1999.349609,Hard,368
+2014-573,Valencia,Valencia,Espanha,Europa,39.469908,-0.376288,27.05393028,Hard,248
+2014-404,Indian Wells Masters,Indian Wells,EUA,América do Norte,33.717631,-116.340755,277.1852417,Hard,1000
+2014-891,Chennai,Chennai,Índia,Ásia,13.08268,80.270718,0.761829436,Hard,133
+2014-439,Umag,Umago,Croácia,Europa,45.437206,13.525721,3.575510502,Clay,219
+2014-5014,Shanghai Masters,Xangai,China,Ásia,31.230416,121.473701,6.564735889,Hard,838
+2014-402,Memphis,Memphis,EUA,América do Norte,35.149534,-90.04898,72.96620178,Hard,294
+2014-6116,Atlanta,Atlanta,EUA,América do Norte,33.748995,-84.387982,308.6121521,Hard,345
+2014-499,Delray Beach,Delray Beach,EUA,América do Norte,26.462489,-80.0776647,5.067657947540283,Hard,371
+2014-338,Sydney,Sydney,Austrália,Oceania,-33.86882,151.209296,4.215515137,Hard,358
+2014-407,Rotterdam,Rotterdam,Holanda,Europa,51.8820998,4.4848757,-0.519095242023468,Hard,431
+2014-717,Houston,Houston,EUA,América do Norte,29.760427,-95.369803,14.9013443,Clay,212
+2014-311,Queen's Club,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,890
+2014-6932,Rio de Janeiro,Rio de Janeiro,Brasil,América do Sul,-22.906847,-43.172896,24.8383007,Clay,208
+2014-375,Montpellier,Montpellier,França,Europa,43.610769,3.876716,37.19309235,Hard,385
+2014-328,Basel,Basel,Suíça,Europa,47.559599,7.588576,276.7791138,Hard,521
+2014-329,Tokyo,Tóquio,Japão,Ásia,35.6804,139.769017,25.86968803,Hard,406
+2014-2276,Zagreb,Zagrebe,Croácia,Europa,45.815011,15.981919,213.4449158,Hard,392
+2014-308,Munich,Munique,Alemanha,Europa,48.135125,11.581981,523.5631714,Clay,238
+2014-315,Newport,Newport,EUA,América do Norte,41.490102,-71.312828,13.53820419,Grass,419
+2014-6710,Dusseldorf,Dusseldorf,Alemanha,Europa,51.227741,6.773456,30.44205284,Clay,250
+2014-773,Bucharest,Bucareste,Romenia,Europa,44.426767,26.102538,78.06578064,Clay,150
+2014-520,Roland Garros,Paris,França,Europa,48.856614,2.352222,54.06916046,Clay,1549
+2014-540,Wimbledon,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,3248
+2014-1536,Madrid Masters,Madri,Espanha,Europa,40.416775,-3.70379,667.6986694,Clay,551
+2014-314,Gstaad,Gstaad,Suíça,Europa,46.471759,7.286573,1402.696899,Clay,174
+2014-429,Stockholm,Estocolmo,Suécia,Europa,59.329323,18.068581,38.17290115,Hard,414
+2014-6003,Kuala Lumpur,Kuala Lumpur,Malásia,Ásia,3.139003,101.686855,114.5041733,Hard,318
+2014-418,Washington,Washington,EUA,América do Norte,47.751074,-120.740138,938.9876099,Hard,668
+2014-560,US Open,Nova Iorque,EUA,América do Norte,40.712775,-74.005973,4.262852192,Hard,2331
+2014-6242,Winston-Salem,Winston-Salem,EUA,América do Norte,36.09986,-80.244216,251.0912781,Hard,586
+2014-352,Paris Masters,Paris,França,Europa,48.856614,2.352222,54.06916046,Hard,618
+2014-341,Metz,Metz,França,Europa,49.119309,6.175716,175.2830353,Hard,388
+2014-440,s-Hertogenbosch,Rosmalen,Holanda,Europa,51.717149,5.36081,2.25545454,Grass,340
+2014-605,Tour Finals 2014,Londres,Reino Unido,Europa,51.5025248,0.0014754,5.662439823150635,Hard,114
+2015-329,Tokyo,Tóquio,Japão,Ásia,35.6804,139.769017,25.86968803,Hard,405
+2015-429,Stockholm,Estocolmo,Suécia,Europa,59.329323,18.068581,38.17290115,Hard,351
+2015-439,Umag,Umago,Croácia,Europa,45.437206,13.525721,3.575510502,Clay,149
+2015-422,Cincinnati Masters,Cincinnati,EUA,América do Norte,39.103118,-84.51202,251.0748596,Hard,775
+2015-5014,Shanghai Masters,Xangai,China,Ásia,31.230416,121.473701,6.564735889,Hard,815
+2015-352,Paris Masters,Paris,França,Europa,48.856614,2.352222,54.06916046,Hard,613
+2015-425,Barcelona,Barcelona,Espanha,Europa,41.387397,2.168568,42.32268524,Clay,276
+2015-7163,Istanbul,Istanbul,Turquia,Europa,41.008238,28.978359,17.35715485,Clay,188
+2015-540,Wimbledon,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,2997
+2015-7161,Quito,Quito,Equador,América do Sul,-0.180653,-78.467838,2697.437744,Clay,295
+2015-421,Canada Masters,Toronto,Canadá,América do Norte,43.653226,-79.383184,66.05884552,Hard,775
+2015-6003,Kuala Lumpur,Kuala Lumpur,Malásia,Ásia,3.139003,101.686855,114.5041733,Hard,335
+2015-6120,Nice,Nice,França,Europa,43.710173,7.261953,140.7552795,Clay,243
+2015-407,Rotterdam,Rotterdam,Holanda,Europa,51.8820998,4.4848757,-0.519095242023468,Hard,406
+2015-891,Chennai,Chennai,Índia,Ásia,13.08268,80.270718,0.761829436,Hard,298
+2015-404,Indian Wells Masters,Indian Wells,EUA,América do Norte,33.717631,-116.340755,277.1852417,Hard,1095
+2015-403,Miami Masters,Miami,EUA,América do Norte,25.7082748,-80.1611257,-0.5187706351280212,Hard,972
+2015-402,Memphis,Memphis,EUA,América do Norte,35.149534,-90.04898,72.96620178,Hard,499
+2015-339,Brisbane,Brisbane,Austrália,Oceania,-27.470453,153.026034,12.74699593,Hard,484
+2015-338,Sydney,Sydney,Austrália,Oceania,-33.86882,151.209296,4.215515137,Hard,460
+2015-6718,Bogota,Bogota,Colômbia,América do Sul,4.710989,-74.072092,2797.953857,Hard,500
+2015-440,s-Hertogenbosch,Rosmalen,Holanda,Europa,51.717149,5.36081,2.25545454,Grass,368
+2015-500,Halle,Halle,Alemanha,Europa,51.49698,11.968803,81.90995026,Grass,459
+2015-495,Dubai,Dubai,Emirados Árabes Unidos,Ásia,25.204849,55.270783,1.280532718,Hard,303
+2015-560,US Open,Nova Iorque,EUA,América do Norte,40.712775,-74.005973,4.262852192,Hard,2445
+2015-6967,Shenzhen,Shenzhen,China,Ásia,22.543096,114.057865,39.16783142,Hard,298
+2015-773,Bucharest,Bucareste,Romenia,Europa,44.426767,26.102538,78.06578064,Clay,195
+2015-337,Vienna,Viena,Austria,Europa,48.208174,16.373819,208.9177704,Hard,601
+2015-311,London,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,707
+2015-6932,Rio de Janeiro,Rio de Janeiro,Brasil,América do Sul,-22.906847,-43.172896,24.8383007,Clay,209
+2015-315,Newport,Newport,EUA,América do Norte,41.490102,-71.312828,13.53820419,Grass,547
+2015-314,Gstaad,Gstaad,Suíça,Europa,46.471759,7.286573,1402.696899,Clay,209
+2015-741,Nottingham,Nottingham,Reino Unido,Europa,52.954783,-1.158109,61.28526306,Grass,599
+2015-319,Kitzbuhel,Kitzbuhel,Austria,Europa,47.449238,12.392541,906.1345215,Clay,232
+2015-580,Australian Open,Melbourne,Austrália,Oceania,-37.813628,144.963058,8.406817436,Hard,2770
+2015-316,Bastad,Bastad,Suécia,Europa,56.427389,12.847722,88.20202637,Clay,184
+2015-506,Buenos Aires,Buenos Aires,Argentina,América do Sul,-34.603684,-58.381559,7.12301302,Clay,144
+2015-807,Acapulco,Acapulco,México,América do Norte,23.634501,-102.552784,1999.349609,Hard,301
+2015-573,Valencia,Valencia,Espanha,Europa,39.469908,-0.376288,27.05393028,Hard,312
+2015-6242,Winston-Salem,Winston-Salem,EUA,América do Norte,36.09986,-80.244216,251.0912781,Hard,832
+2015-2276,Zagreb,Zagrebe,Croácia,Europa,45.815011,15.981919,213.4449158,Hard,353
+2015-308,Munich,Munique,Alemanha,Europa,48.135125,11.581981,523.5631714,Clay,262
+2015-418,Washington,Washington,EUA,América do Norte,47.751074,-120.740138,938.9876099,Hard,805
+2015-6116,Atlanta,Atlanta,EUA,América do Norte,33.748995,-84.387982,308.6121521,Hard,429
+2015-414,Hamburg,Hamburgo,Alemanha,Europa,53.551085,9.993682,7.651072502,Clay,190
+2015-1536,Madrid Masters,Madri,Espanha,Europa,40.416775,-3.70379,667.6986694,Clay,616
+2015-416,Rome Masters,Roma,Italia,Europa,41.902784,12.496366,37.41212463,Clay,554
+2015-375,Montpellier,Montpellier,França,Europa,43.610769,3.876716,37.19309235,Hard,313
+2015-410,Monte Carlo Masters,Monte Carlo,Mônaco,Europa,43.740072,7.426644,110.5124283,Clay,383
+2015-533,Sao Paulo,Sao Paulo,Brasil,América do Sul,-23.555771,-46.639557,797.1174927,Clay,319
+2015-451,Doha,Doha,Catar,Ásia,25.285447,51.53104,10.24268818,Hard,382
+2015-360,Casablanca,Casablanca,Marrocos,África,33.57311,-7.589843,50.53450012,Clay,198
+2015-438,Moscow,Moscou,Rússia,Europa,55.755826,37.6173,147.0406799,Hard,225
+2015-341,Metz,Metz,França,Europa,49.119309,6.175716,175.2830353,Hard,391
+2015-717,Houston,Houston,EUA,América do Norte,29.760427,-95.369803,14.9013443,Clay,283
+2015-301,Auckland,Auckland,Nova Zelândia,Oceania,-36.850883,174.764488,11.14038277,Hard,340
+2015-496,Marseille,Marselha,França,Europa,43.296482,5.36978,40.33418655,Hard,335
+2015-322,Geneva,Geneva,Suíça,Europa,46.204391,6.143158,422.9550476,Clay,192
+2015-321,Stuttgart,Stuttgart,Alemanha,Europa,48.775846,9.182932,327.8624878,Grass,467
+2015-7290,Estoril,Estoril,Portugal,Europa,38.713315,-9.393656,3.778222322,Clay,206
+2015-568,St. Petersburg,São Petersburgo,Rússia,América do Norte,59.9502805,30.2894237,3.737375259399414,Hard,303
+2015-747,Beijing,Pequim,China,Ásia,39.9042,116.407396,46.6712265,Hard,330
+2015-499,Delray Beach,Delray Beach,EUA,América do Norte,26.462489,-80.0776647,5.067657947540283,Hard,366
+2015-328,Basel,Basel,Suíça,Europa,47.559599,7.588576,276.7791138,Hard,438
+2015-520,Roland Garros,Paris,França,Europa,48.856614,2.352222,54.06916046,Clay,1570
+2015-605,Tour Finals 2015,Londres,Reino Unido,Europa,51.5025248,0.0014754,5.662439823150635,Hard,122
+2016-M020,Brisbane,Brisbane,Austrália,Oceania,-27.470453,153.026034,12.74699593,Hard,385
+2016-0891,Chennai,Chennai,Índia,Ásia,13.08268,80.270718,0.761829436,Hard,376
+2016-0451,Doha,Doha,Catar,Ásia,25.285447,51.53104,10.24268818,Hard,275
+2016-0301,Auckland,Auckland,Nova Zelândia,Oceania,-36.850883,174.764488,11.14038277,Hard,399
+2016-M001,Sydney,Sydney,Austrália,Oceania,-33.86882,151.209296,4.215515137,Hard,334
+2016-580,Australian Open,Melbourne,Austrália,Oceania,-37.813628,144.963058,8.406817436,Hard,2789
+2016-0375,Montpellier,Montpellier,França,Europa,43.610769,3.876716,37.19309235,Hard,350
+2016-7161,Quito,Quito,Equador,América do Sul,-0.180653,-78.467838,2697.437744,Clay,385
+2016-7434,Sofia,Sofia,Bulgária,Europa,42.6714647,23.3672065,554.209228515625,Hard,279
+2016-0506,Buenos Aires,Buenos Aires,Argentina,América do Sul,-34.603684,-58.381559,7.12301302,Clay,230
+2016-0402,Memphis,Memphis,EUA,América do Norte,35.149534,-90.04898,72.96620178,Hard,280
+2016-0407,Rotterdam,Rotterdam,Holanda,Europa,51.8820998,4.4848757,-0.519095242023468,Hard,424
+2016-0499,Delray Beach,Delray Beach,EUA,América do Norte,26.462489,-80.0776647,5.067657947540283,Hard,347
+2016-0496,Marseille,Marselha,França,Europa,43.296482,5.36978,40.33418655,Hard,449
+2016-M052,Rio de Janeiro,Rio de Janeiro,Brasil,América do Sul,-22.906847,-43.172896,24.8383007,Clay,250
+2016-M004,Acapulco,Acapulco,México,América do Norte,23.634501,-102.552784,1999.349609,Hard,347
+2016-0495,Dubai,Dubai,Emirados Árabes Unidos,Ásia,25.204849,55.270783,1.280532718,Hard,291
+2016-0533,Sao Paulo,Sao Paulo,Brasil,América do Sul,-23.555771,-46.639557,797.1174927,Clay,222
+2016-M006,Indian Wells Masters,Indian Wells,EUA,América do Norte,33.717631,-116.340755,277.1852417,Hard,879
+2016-M007,Miami Masters,Miami,EUA,América do Norte,25.7082748,-80.1611257,-0.5187706351280212,Hard,1003
+2016-0717,Houston,Houston,EUA,América do Norte,29.760427,-95.369803,14.9013443,Clay,282
+2016-0360,Marrakech,Marrakech,Marrocos,África,42.697708,23.321868,606.8295898,Clay,230
+2016-0410,Monte Carlo Masters,Monte Carlo,Mônaco,Europa,43.740072,7.426644,110.5124283,Clay,401
+2016-0425,Barcelona,Barcelona,Espanha,Europa,41.387397,2.168568,42.32268524,Clay,306
+2016-0773,Bucharest,Bucareste,Romenia,Europa,44.426767,26.102538,78.06578064,Clay,196
+2016-7290,Estoril,Estoril,Portugal,Europa,38.713315,-9.393656,3.778222322,Clay,206
+2016-7163,Istanbul,Istanbul,Turquia,Europa,41.008238,28.978359,17.35715485,Clay,177
+2016-0308,Munich,Munique,Alemanha,Europa,48.135125,11.581981,523.5631714,Clay,187
+2016-M021,Madrid Masters,Madri,Espanha,Europa,40.416775,-3.70379,667.6986694,Clay,616
+2016-M009,Rome Masters,Roma,Italia,Europa,41.902784,12.496366,37.41212463,Clay,424
+2016-0322,Geneva,Geneva,Suíça,Europa,46.204391,6.143158,422.9550476,Clay,241
+2016-6120,Nice,Nice,França,Europa,43.710173,7.261953,140.7552795,Clay,216
+2016-520,Roland Garros,Paris,França,Europa,48.856614,2.352222,54.06916046,Clay,1656
+2016-M010,s-Hertogenbosch,Rosmalen,Holanda,Europa,51.717149,5.36081,2.25545454,Grass,434
+2016-0321,Stuttgart,Stuttgart,Alemanha,Europa,48.775846,9.182932,327.8624878,Grass,452
+2016-0500,Halle,Halle,Alemanha,Europa,51.49698,11.968803,81.90995026,Grass,403
+2016-0311,London,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,643
+2016-0741,Nottingham,Nottingham,Reino Unido,Europa,52.954783,-1.158109,61.28526306,Grass,692
+2016-540,Wimbledon,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Grass,2785
+2016-0316,Bastad,Bastad,Suécia,Europa,56.427389,12.847722,88.20202637,Clay,164
+2016-0414,Hamburg,Hamburgo,Alemanha,Europa,53.551085,9.993682,7.651072502,Clay,212
+2016-0315,Newport,Newport,EUA,América do Norte,41.490102,-71.312828,13.53820419,Grass,307
+2016-0314,Gstaad,Gstaad,Suíça,Europa,46.471759,7.286573,1402.696899,Clay,319
+2016-0319,Kitzbuhel,Kitzbuhel,Austria,Europa,47.449238,12.392541,906.1345215,Clay,201
+2016-0439,Umag,Umago,Croácia,Europa,45.437206,13.525721,3.575510502,Clay,134
+2016-M035,Washington,Washington,EUA,América do Norte,47.751074,-120.740138,938.9876099,Hard,779
+2016-0421,Canada Masters,Toronto,Canadá,América do Norte,43.653226,-79.383184,66.05884552,Hard,753
+2016-6116,Atlanta,Atlanta,EUA,América do Norte,33.748995,-84.387982,308.6121521,Hard,427
+2016-7480,Los Cabos,Los Cabos,México,América do Norte,22.9134386,-109.8960836,49.72241592407227,Hard,324
+2016-O16,Olympics,Olympics,Brasil,América do Sul,-22.9749873,-43.3966474,2.768212795257568,Hard,529
+2016-M024,Cincinnati Masters,Cincinnati,EUA,América do Norte,39.103118,-84.51202,251.0748596,Hard,810
+2016-6242,Winston-Salem,Winston-Salem,EUA,América do Norte,36.09986,-80.244216,251.0912781,Hard,551
+2016-560,Us Open,Nova Iorque,EUA,América do Norte,40.712775,-74.005973,4.262852192,Hard,2009
+2016-0341,Metz,Metz,França,Europa,49.119309,6.175716,175.2830353,Hard,444
+2016-7581,Chengdu,Chengdu,China,Ásia,30.5728,104.0668,481.2686767578125,Hard,377
+2016-6967,Shenzhen,Shenzhen,China,Ásia,22.543096,114.057865,39.16783142,Hard,419
+2016-0568,St. Petersburg,São Petersburgo,Rússia,Europa,59.9502805,30.2894237,3.737375259399414,Hard,231
+2016-M015,Beijing,Pequim,China,Ásia,39.9042,116.407396,46.6712265,Hard,313
+2016-0329,Tokyo,Tóquio,Japão,Ásia,35.6804,139.769017,25.86968803,Hard,460
+2016-5014,Shanghai Masters,Xangai,China,Ásia,31.230416,121.473701,6.564735889,Hard,619
+2016-7485,Antwerp,Antuérpia,Bélgica,Europa,51.2301752,4.4396087,2.047021627426147,Hard,274
+2016-M014,Moscow,Moscou,Rússia,Europa,55.755826,37.6173,147.0406799,Hard,202
+2016-0429,Stockholm,Estocolmo,Suécia,Europa,59.329323,18.068581,38.17290115,Hard,261
+2016-0328,Basel,Basel,Suíça,Europa,47.559599,7.588576,276.7791138,Hard,411
+2016-0337,Vienna,Viena,Austria,Europa,48.208174,16.373819,208.9177704,Hard,484
+2016-0352,Paris Masters,Paris,França,Europa,48.856614,2.352222,54.06916046,Hard,699
+2016-0605,London,Londres,Reino Unido,Europa,51.507218,-0.127586,20.33771706,Hard,169
